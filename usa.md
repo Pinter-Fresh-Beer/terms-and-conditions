@@ -43,11 +43,10 @@ When you sign up for our flexible auto-delivery service, you agree to receive a 
 You will be charged for your **first order at checkout**. This first order includes your Pinter and the selected beer packs. Future subscription orders will be billed automatically every 4 weeks on your plan date, and we’ll send an order confirmation email when each payment is processed.
 
 Our subscription is **completely flexible**. **After your first recurring subscription shipment**, you may:
-- Change your Pinter Pack selection or quantity (minimum 2 packs)
 - Pause your subscription for up to **3 cycles**
 - Cancel your subscription at any time, free of charge
 
-To make changes, you must do so before **11:59pm (local time) the day before** your next billing date. Orders already processed cannot be cancelled or changed.
+To make any changes to your subscription, you must do so before **11:59pm (EST time) the day before** your next billing date. Orders already processed cannot be cancelled or changed.
 
 If you do not select your beers before your billing date, we will send you a default beer selection.
 
