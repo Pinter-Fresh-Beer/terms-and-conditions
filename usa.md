@@ -46,7 +46,7 @@ Our subscription is **completely flexible**. **After your first recurring subscr
 - Pause your subscription for up to **3 cycles**
 - Cancel your subscription at any time, free of charge
 
-To make any changes to your subscription, you must do so before **11:59pm (EST time) the day before** your next billing date. Orders already processed cannot be cancelled or changed.
+To make any changes to your subscription  (including changes to beer selections), you must do so before **11:59pm (EST) the day before** your next billing date. Orders already processed cannot be cancelled or changed.
 
 If you do not select your beers before your billing date, we will send you a default beer selection.
 
