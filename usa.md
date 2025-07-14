@@ -40,9 +40,9 @@ Please see our full Refunds Policy:
 ## SUBSCRIPTIONS AND AUTO-DELIVERY
 When you sign up for our flexible auto-delivery service, you agree to receive a recurring shipment of Pinter Packs every 4 weeks. Each subscription order includes a minimum of **2 Pinter Packs**.
 
-You will be charged for your **first subscription order at checkout**. This first order includes your Pinter and the selected beer packs. Future subscription orders will be billed automatically every 4 weeks on your plan date, and we’ll send an order confirmation email when each payment is processed.
+You will be charged for your **first order at checkout**. This first order includes your Pinter and the selected beer packs. Future subscription orders will be billed automatically every 4 weeks on your plan date, and we’ll send an order confirmation email when each payment is processed.
 
-Our subscription is **completely flexible**. After your **first recurring subscription shipment**, you may:
+Our subscription is **completely flexible**. **After your first recurring subscription shipment**, you may:
 - Change your Pinter Pack selection or quantity (minimum 2 packs)
 - Pause your subscription for up to **3 cycles**
 - Cancel your subscription at any time, free of charge
