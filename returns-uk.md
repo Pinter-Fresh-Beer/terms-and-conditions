@@ -1,5 +1,6 @@
 📦
 
+
 **Refunds on Pinters Ordered with Subscription Offers**
 
 We want you to enjoy brewing with your Pinter and feel confident in your subscription. If something’s not right, we’re here to help. If you'd like to return your Pinter after buying on a subscription offer, here is our policy:
