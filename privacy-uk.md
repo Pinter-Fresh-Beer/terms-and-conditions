@@ -1,9 +1,11 @@
-PRIVACY & COOKIE POLICY
-=======================
+Please see our **Website and General Enquiries Privacy Notice 2025**  
+[**View the PDF here** ›](https://cdn.shopify.com/s/files/1/0265/3428/1291/files/Pinter_Website_Privacy_Notice_v5.0.pdf?v=1737041305 "Website and General Enquiries Privacy Notice 2025")
 
-Please see our Website and General Enquiries Privacy Notice 2025 [here](https://cdn.shopify.com/s/files/1/0265/3428/1291/files/Pinter_Website_Privacy_Notice_v5.0.pdf?v=1737041305 "Website and General Enquiries Privacy Notice 2025").
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### **HOW TO CONTACT US**
+### **How to Contact Us**
 
-If there’s absolutely anything we can do to help, you can reach us via Email or Live Chat using the "Need some help?" button to your right. Please also see our support page [here](https://support.pinter.co.uk/en "Support").
+If there’s anything we can do to help, you can reach us via **Email** or **Live Chat** using the **“Need some help?”** button to your right.
+
+You can also visit our support page:  
+[**Support Centre ›**](https://support.pinter.co.uk/en "Support")
