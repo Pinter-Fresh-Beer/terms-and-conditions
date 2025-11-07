@@ -1,5 +1,4 @@
 📦
---
 
 ### Refunds on Pinters Ordered with Subscription Offers
 
