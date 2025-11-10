@@ -22,7 +22,14 @@ If your first order has been delivered but remains unopened and unused — and i
 • Return the full shipment (Pinter and Pinter Packs) unused  
 • Once we receive the return or proof of return, we’ll issue a full refund
 
-**3. Used First Order or Outside 30-Day Guarantee**
+**3. Cancellations After Your First Subscription Order**
+
+If you’ve already been charged for your first subscription order:
+
+• You can cancel anytime to stop future shipments  
+• Refunds are not available for any orders already processed or shipped
+
+**4. Used First Order or Outside 30-Day Guarantee**
 
 If you’ve used your first shipment, or it’s been more than 30 days since purchase, you’re not eligible for a full refund — but you still have options:
 
@@ -35,12 +42,8 @@ If you’ve used your first shipment, or it’s been more than 30 days since pur
 • We’ll cancel your subscription  
 • If you return the second Pinter Pack unopened, we’ll refund the pack’s value once we receive it or proof of return
 
-**4. Cancel After Your First Subscription Order**
+NB the £99 hardware fee would only apply if you are cancelling before your first subscription order is processed.
 
-If you’ve already been charged for your first subscription order:
-
-• You can cancel anytime to stop future shipments  
-• Refunds are not available for any orders already processed or shipped
 
 **Need Help?**
 
