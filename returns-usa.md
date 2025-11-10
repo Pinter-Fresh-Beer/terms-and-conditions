@@ -1,6 +1,6 @@
 📦
 
-**Refunds on Pinters ordered with Subscription offers**
+**Refunds on Pinters ordered with Delivery Plan Subscription offers**
 
 We want you to enjoy brewing with your Pinter and feel confident in your subscription. If something’s not right, we’re here to help. If you'd like to return your Pinter after buying on a subscription offer, here is our policy:
 
@@ -21,6 +21,13 @@ If your first order has been delivered but remains unopened and unused — and i
 • Return the full shipment (Pinter and Pinter Packs) unused  
 • Once we receive the return or proof of return, we’ll issue a full refund
 
+**4. Cancel After Your Minimum Term Commitment**
+
+If you’ve already been charged for your first subscription order:
+
+• You can cancel anytime to stop future shipments  
+• Refunds are not available for any orders already processed or shipped
+
 **3. Used First Order or Past 30-Day Window**
 
 If you’ve used your first shipment, or it’s been more than 30 days since purchase, you’re not eligible for a full refund — but you still have options:
@@ -34,12 +41,7 @@ If you’ve used your first shipment, or it’s been more than 30 days since pur
 • We’ll cancel your subscription  
 • If you return the second Pinter Pack unopened, we’ll refund the pack’s value once we receive it or proof of return
 
-**4. Cancel After Your First Subscription Order**
 
-If you’ve already been charged for your first subscription order:
-
-• You can cancel anytime to stop future shipments  
-• Refunds are not available for any orders already processed or shipped
 
 **Need Help?**
 
