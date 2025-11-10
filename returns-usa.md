@@ -23,7 +23,7 @@ If your first order has been delivered but remains unopened and unused — and i
 
 **4. Cancel After Your Minimum Term Commitment**
 
-If you’ve already been charged for your first subscription order:
+If you’ve already been charged for your last subscription order:
 
 • You can cancel anytime to stop future shipments  
 • Refunds are not available for any orders already processed or shipped
