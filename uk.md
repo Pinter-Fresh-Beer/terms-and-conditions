@@ -1,214 +1,240 @@
-### **ABOUT US**
+# 📜 PINTER UK LTD — TERMS OF SERVICE
 
-We’re Pinter. This website is owned and operated by us and the contract for any items ordered is with: 
+**Last Updated:** 20th November 2025
 
-Pinter
+These Terms and Conditions (“Terms”) apply when you use www.pinter.co.uk (the “Site”) or purchase any products or subscription services from The Greater Good Fresh Brewing Co (“Pinter”, “we”, “us”, “our”).
 
-Company No. 07213215
+These Terms are written to comply with UK consumer law including:
+* Consumer Rights Act 2015
+* Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013
+* UK GDPR & Data Protection Act 2018
+* Competition & Markets Authority (CMA) guidance on online transparency and subscription fairness
 
-Registered address: Studio 10 Tiger House, Burton Street, London, England, WC1H 9BY
+> **Please read these Terms carefully before placing an order.**
 
-VAT No: 155570307
+---
 
-[hello@pinter.co.uk](mailto:hello@pinter.co.uk)
+## 1. ABOUT US
 
-When you shop with us, access our app or website, these terms and conditions apply. If you have any other questions more information can be found on our FAQ pages. If you need anything more than this, please do get in touch with us at [hello@pinter.co.uk](mailto:hello@pinter.co.uk).
+* **Company Name:** The Greater Good Fresh Brewing Co (trading as Pinter)
+* **Registration:** Registered in England & Wales: 07213215
+* **Registered Office:** Studio 10, Tiger House, Burton Street, London, WC1H 9BY
+* **Email:** hello@pinter.co.uk
 
-  
-**ABOUT YOU**
+When you purchase from our Site, your contract is with The Greater Good Fresh Brewing Company Ltd.
 
-To shop with us, you need to:
+## 2. WHO CAN BUY FROM US
 
-Be at least 18 years old
+To place an order, you must:
+* Be **18 years or older** (required under UK alcohol laws).
+* Use a **valid payment method** that you are authorised to use.
+* Provide a delivery address within **mainland UK, Northern Ireland, the Isle of Man, or the Channel Islands**.
 
-Have a credit or debit card that we accept (payment types listed below)
+> **Important:** Pinter Packs are non-alcoholic until brewed.
 
-Be authorised to use that credit or debit card
+## 3. ABOUT OUR PRODUCTS AND SERVICES
 
-  
-**ELIGIBILITY**
+| Product/Service | Description |
+| :--- | :--- |
+| **Pinter** | A home-brewing device for fresh beer or cider. |
+| **Co-Pinter** | An accessory for use with a Pinter. |
+| **Pinter Packs** | Ingredient packs designed for use with a Pinter. |
+| **Delivery Plans** | Optional subscription plans that deliver Pinter Packs on a recurring schedule. |
 
-Our products are available only to individuals over the age of 18 years old. By placing your order for our products, you are confirming that you are over the age of 18 years old.
+Descriptions, images and specifications on our Site are for guidance only, but we take reasonable care to ensure accuracy.
 
-  
+## 4. PLACING AN ORDER
 
-**PURCHASING**
+* You place an order by completing checkout on pinter.co.uk.
+* Your order is **accepted** when we send you an order confirmation email.
+* All prices shown include **VAT** where applicable.
 
-We accept Visa, Mastercard, American Express, Google Pay,ApplePay, Paypal and Amazon pay. If your card is authorised, payment will be taken immediately, and you will receive an email confirming that your order has been successful. We now also offer ClearPay - please note that you cannot use this payment method if purchasing a Fresh Beer Club subscription.
+**Accepted Payment Methods:**
+Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and any additional methods shown at checkout.
 
-  
+## 5. PAY-AS-YOU-GO PURCHASES
 
-**CHANGING OR CANCELLING ORDERS**
+* You may purchase Pinters or Pinter Packs without joining a subscription.
+* Prices are in **GBP**.
+* Any delivery charges are displayed at checkout.
+* You may buy Pinter Packs in any available quantity.
+* No minimum order applies unless stated.
 
-All orders are processed and shipped as soon as possible. If you need to make a change or cancel your order, please get in touch with Customer Service on [hello@pinter.co.uk](mailto:hello@pinter.co.uk). If your order has already been dispatched, we will not be able to make any changes. If your order is currently being processed, we will attempt to make the changes you have requested, but note that it may not be possible.
+## 6. DELIVERY
 
-  
+* We deliver to **mainland UK, Northern Ireland, the Isle of Man, and the Channel Islands only.**
+* Delivery times on the Site or in emails are **estimates, not guarantees**.
+* Under UK law, if we do not deliver your goods within **30 days**, you may have the right to cancel and receive a full refund unless you agreed to a longer delivery timeframe.
+* **Risk** passes to you on delivery.
+* **Ownership** passes to you once full payment is received.
 
-**SUBSCRIPTIONS AND AUTO DELIVERY**
+## 7. DELIVERY PLANS (SUBSCRIPTIONS)
 
-Rolling Monthly Subscription.
+> This section is written to comply with CMA subscription rules, including transparency, cancellation rights, reminders and fairness standards.
 
-When you subscribe to auto-delivery, you’ll receive recurring deliveries of Pinter Packs.
+### 7.1 How Subscriptions Work
 
-A minimum of two packs is required in your first subscription order. After your first subscription order, these can be changed through your account page.
+By joining a Delivery Plan, you agree that:
+* You will receive Pinter Packs on a **recurring basis** (every 4 weeks or another frequency shown on our Site).
+* We will **automatically charge** your chosen payment method on each billing date.
+* Charges and delivery schedules will continue **until you cancel**.
 
-Your payment details will be securely stored, and you’ll be charged for each scheduled delivery every 4 weeks, unless you choose to pay in advance using the send ASAP feature. If you do not wish to renew, you can cancel at any time after your first recurring subscription order. You can modify or cancel after your first recurring order in your account page, although any changes must be made before 11:59pm the day before your subscription renews. Once a subscription order has shipped, it cannot be returned or refunded, however, future subscription orders can be paused or canceled at any time after your first recurring subscription order.
+Before completing subscription setup, we clearly display:
+* The recurring price;
+* Frequency of billing;
+* Any commitment, if applicable;
+* How to cancel.
 
-For more details on returns and refunds, please refer to our returns policy.
+### 7.2 Managing Your Subscription
 
-If you don't select a Fresh Beer before your subscription date (or if your selected beer is out of stock and unchanged), you will receive the default beer at the time for that month. You can change the date of your monthly subscription as long as you haven’t changed within the last 3 months. To update your subscription date, please contact Customer Services and we'll be able to update it in your account.  
+You may update your subscription through your online account. You can:
+* Change the products you receive;
+* Change your delivery frequency;
+* Update your payment method;
+* Change your delivery address.
 
-  
+> **Note:** Changes must be made before **11:59pm UK time the day before your next billing date**. Orders already processed or dispatched cannot usually be changed.
 
-**PRICE DISCOUNTS & PROMOTIONS**  
+### 7.3 Cancelling Your Subscription
 
-If you have received a voucher or promotion from us, one of our partners, or from a friend (lucky you!), here's how they work:  
+Unless you have signed up to a promotional offer with a clearly stated minimum term, you may cancel at any time.
 
-They cannot be combined with any other offer or promotion.
+You can cancel by:
+* Logging into your online account; **or**
+* Emailing hello@pinter.co.uk.
 
-They are usually limited to one per person.
+Cancellations take effect immediately for future billing. You will receive a cancellation confirmation email.
 
-Our vouchers are usually only redeemable for a set timeframe.
+### 7.4 Annual Subscription Reminder
 
-Our vouchers typically are only redeemable against a specific product and this cannot be exchanged for money off something else (ie you cannot use your discount off a Pinter against a Fresh press).
+At least once every 12 months, we will send you a reminder stating:
+* That your subscription is ongoing;
+* That you are still being billed;
+* How to cancel easily.
 
-BUT please note, the offer does vary from voucher to voucher, so please refer to the voucher itself.
+## 8. PROMOTIONS, INTRODUCTORY OFFERS & COMMITMENT PLANS
 
-We do sometimes test the price of our products and/or offer discounts to make sure that we provide the best value to our customers, this may mean you get a price that isn't our lowest price. Due to the nature of these tests, we cannot make up the difference in prices for customers.
+Promotions are offered from time to time and may include discounts, free gifts, or reduced-price devices. We always present promotional terms clearly and upfront, including any minimum subscription commitment.
 
-We operate a fair use policy on all promotional activity and reserve the right to cancel at any time.  
+### 8.1 General Promotional Rules
 
-In the unlikely event that your voucher or discount is not working, please get in touch with our Customer service Team via our website or email us at [hello@pinter.co.uk](mailto:hello@pinter.co.uk) who'll be happy to help.  
+* Promotions cannot be transferred, exchanged or combined unless stated.
+* Only **one promotional or discount code** may be used per order.
+* We may amend or withdraw any promotion if necessary (e.g., due to error, misuse or fraud).
+* **Introductory offers** are one per household, based on delivery address, billing address and/or payment method.
+* If we identify multiple introductory offers from the same household, we may cancel additional orders and refund you.
 
-  
+### 8.2 Commitment-Based Promotions (e.g., Free or Discounted Pinter)
 
-**DELIVERY**  
+If you receive a discounted or free device, a minimum subscription commitment may apply. The commitment will be:
+* Clearly displayed when signing up for your account before checkout;
+* Explained in the promotional details;
+* Confirmed in your order email.
 
-Once we’ve received payment, we will get your order ready for dispatch. Your anticipated delivery date will be in your order confirmation email – please allow until this date for your order to arrive. You’ll be able to get the latest updates on your order by clicking the tracking link in your shipping confirmation email.   
-  
+#### 8.2.1. Promotional Offers
 
-**RETURNS**
+| Promotion | Offer | Commitment | Early Cancellation Fee |
+| :--- | :--- | :--- | :--- |
+| **Free Pinter (Rolling Delivery Plan)** | 1 Pinter | Min 2 beer packs + 1 subsequent order (min 2 packs) | £99 |
+| **Free Pinter (Fresh Brewer Plan - 7 Orders, 2 packs per order)** | 1 Pinter | Minimum 2 beer packs purchased with the Pinter + 6 subsequent orders of min 2 beer packs | £99 |
+| **Free Pinter + Co-Pinter + £20 Off Beers (Master Brewer Plan - 13 Orders, 2 packs per order)** | 1 Pinter + 1 Co-Pinter + £20 off beer | Minimum 2 beer packs purchased with the Pinter + 12 subsequent orders of min 2 beer packs | £188 |
 
-If you decide to return something to us, you will need to email [hello@pinter.co.uk](mailto:hello@pinter.co.uk) with details of your return within 14 days of receiving the product. The product will need to be in an unused condition in its original packaging. After this return has been authorised, you have an additional 14 days to return the product to us for a refund.
+After fulfilling the commitment, standard delivery plan rules apply.
 
-If the product is faulty, you have the right to return it for a refund within 30 days of receiving it.
+#### 8.2.2 Early Cancellation Fee Charge
 
-If the product is faulty and it has been over 30 days since you have received it, we have the right to try to resolve the issue in the first instance, which could include repairing or replacing it. If a replacement or repair is unsuccessful in resolving the fault, you have the right to a refund.
+* If you cancel before completing the required number of paid subscription orders, you may be required to pay an **early cancellation fee/charge**.
+* This charge will **never exceed the value of the discount or free gift** you received.
+* The exact amount will be stated clearly in the promotional terms.
+* Skipping, pausing or rescheduling orders **does not reduce the minimum commitment**.
 
-The above does not apply if you are returning a faulty Pinter Pack that is outside its best before date as shown on the Fresh Press.
+### 8.3 Referral Codes
 
-  
-**30-DAY MONEY BACK GUARANTEE** 
+Referral codes apply to **new customers only** and cannot be combined with other promotions unless specifically stated.
 
-We’re so confident that you’ll love Fresh Brewing, that Pinter 3 will be covered under our 30-Day Money-Back Guarantee. If, for any reason you feel that your Pinter 3 did not live up to your expectations, we offer a no-hassle money-back guarantee for a Pinter 3 delivered within the last 30 days. 
+## 9. RETURNS, CANCELLATIONS & REFUNDS
 
-The 30-Day Money-Back Guarantee, Returns Policy and Manufacturer’s Warranty must be used as directed. Failure to do so may result in these being voided.   
+> This section summarises your rights under UK consumer law.
 
-The 30-Day Money-Back Guarantee does not cover Co-Pinters, Pinter Packs or Merchandise. If you would like to make a return for these products, please refer to our regular returns process.  
+### 9.1 14-Day Right to Cancel (Consumer Contracts Regulations)
 
-If you would like to return your Pinter 3 within the first 30 days to claim your money back, please complete the 30-Day Money Back Guarantee form and our Customer Care team will be in touch as soon as possible to progress your submission. The form should be completed within the 30 days since delivery to qualify. The refund will be returned to the payment card used to purchase the Pinter 3. Please note, refunds take 5-7 days to appear in your bank once processed.  
+For most items, you have the right to cancel your order:
+* Within **14 days of delivery**;
+* For **any reason**.
 
-All Pinter 3s purchased with a Christmas voucher are exempt from the 30-Day Money-Back Guarantee.  
+To cancel, email **hello@pinter.co.uk**. You must return the goods within 14 days of notifying us. Unless an item is faulty, you are responsible for return postage costs.
 
-  
+### 9.2 Condition of Returned Goods
 
-**VOUCHERS AND DISCOUNT/PROMO CODES** 
+Returned items must be:
+* Unused;
+* In their original packaging;
+* In resaleable condition.
 
-From time to time, we may issue promotional codes for discounts or additional products. Please remember to add these to your order at checkout before purchasing, as we won’t be able to honour these retrospectively. We are unable to extend the expiry of any voucher or discount code. You're unable to use more than one voucher or discount code at one time.  
+We may reduce your refund if the item is handled beyond what is reasonable to inspect it.
 
-If you’re having any difficulty with a promotional code, please get in touch with us on [hello@pinter.co.uk](mailto:hello@pinter.co.uk) with a screenshot of the code, what the code redeems, and where you received it, and we will look into this for you.
+### 9.3 Faulty Goods (Consumer Rights Act 2015)
 
-  
+You are entitled to:
+* A **full refund within 30 days** if the product is faulty.
+* A **repair or replacement** after 30 days.
+* A **final refund or price reduction** if repair/replacement is unsuccessful.
 
-**PINTER INSIDERS**
+> This does not cover faults resulting from misuse, accidental damage or normal wear and tear.
 
-We want the Pinter Insiders to be a rewarding and fun connection with our customers. We know our customers hold valuable insights that will help us shape Pinter for the better in the future. The Pinter Insiders isn’t a rule-based forum. We want customers to comment and communicate with us freely, intuitively and honestly.
+### 9.4 Warranty
 
-We just ask that everything discussed as part of the Pinter Insiders is kept confidential. This commitment allows us to share things with Pinter Insiders ahead of general release. Without this commitment, we can’t allow Pinter Insiders a window on our world - we will have to restrict the discussion topics and play much more safe with what we share. 
+Pinter and Co-Pinter devices include a **12-month warranty** covering manufacturing defects. To make a claim, contact **hello@pinter.co.uk** with photos and a description of the issue.
 
-All Pinter Insiders will complete the sign-up questions ahead of joining.
+## 10. PRICES & VOUCHERS
 
-All Pinter Insiders will agree to retaining confidentiality on anything discussed as part of the Pinter Insiders and will not discuss or share topics on social media.
+* All prices include **VAT** where applicable.
+* Only **one discount code** may be used per order.
+* Free gifts have no cash value.
+* If subscription prices change, we will give you **advance notice** before your next billing date, and you may cancel if you do not wish to continue.
 
-Any Pinter Insiders found to be in breach of the confidentiality agreement will be removed from the Pinter Insiders group and will not be allowed readmittance.
+## 11. PRIVACY
 
-Pinter Insiders can request to exit the group by contacting Customer Service.
+* We comply with the **UK GDPR and Data Protection Act 2018**.
+* See our full Privacy Policy on **https://pinter.co.uk/pages/privacy-cookie-policy**
+* You can opt out of marketing emails at any time.
 
-Any particular customer issues relating to our product or services will be directed to, and handled by, the Customer Service team to align with all other customer support queries.
+## 12. OUR LIABILITY
 
-Any gifts provided as part of the Pinter Insiders cannot be exchanged for cash and will only be refunded if proved to be faulty.
+We are responsible for loss or damage that is:
+* Caused by our breach of these Terms; and
+* Reasonably foreseeable.
 
-Any expenses incurred for face to face groups will be discussed and agreed in advance.
+We do not exclude liability for:
+* Death or personal injury caused by our negligence;
+* Fraud or fraudulent misrepresentation;
+* Your rights under UK consumer law.
 
-  
+> **Note:** Our products are intended for personal, domestic use. We are not liable for business losses.
 
-**YOUR PINTER AND CO-PINTER WARRANTY**
+## 13. EVENTS OUTSIDE OUR CONTROL
 
-To give you peace of mind when making Fresh Beer at home, all Pinters have a 12-month warranty. This covers any faults with your Pinter/Co-Pinter but does not cover accidental damage through misuse (for example, adding ingredients or items not contained within a Pinter Pack into your Pinter/Co-Pinter). 
+If an event outside our reasonable control affects our ability to fulfil your order (e.g., severe weather, courier disruption), we will inform you as soon as possible and take reasonable steps to reduce the impact.
 
-Your warranty will begin when your Pinter has been delivered and is valid for 12-months from this date. To register your warranty, please complete the form in the email you receive after your Pinter has shipped. If you gifted the Pinter/Co-Pinter , you will receive an email to forward to the giftee to complete the form. If you have not received this, please contact our Customer Care team at [hello@pinter.co.uk](mailto:hello@pinter.co.uk). If you have purchased a second hand Pinter  or Co-Pinter , please contact the original owner for the order no. Once you have this, please complete this form to transfer the warranty and follow the steps below to make a claim. Please note that the warranty period will remain at 12-months from when the Pinter/Co-Pinter  was originally delivered.
+## 14. GOVERNING LAW & DISPUTES
 
-If you would like to make a warranty claim, please ensure you have completed the form first. You should then contact our Customer Care team at [hello@pinter.co.uk](mailto:hello@pinter.co.uk) to begin your claim. When submitting a claim, please include a photo of the issue you have and summarise the problem. Our Community Service team will investigate this issue for you and may ask you additional questions or ask you for additional photos to ensure we provide the right service for you. If we find there is a fault, we may either replace the faulty part or the whole Pinter/Co-Pinter depending on the issue.
+* These Terms are governed by the laws of **England and Wales**.
+* If you are unhappy with how we have handled a complaint, you may use:
+    * An **Alternative Dispute Resolution (ADR) body**; or
+    * The **Online Dispute Resolution platform**.
+* You always retain the right to take the matter to the **UK courts**.
 
-  
+## 15. CHANGES TO THESE TERMS
 
-**ACTIVE POUR TAP WARRANTY**
+* We may update these Terms occasionally.
+* The latest version will always be available on pinter.co.uk.
+* If a change significantly affects your subscription or your rights, we will provide **reasonable advance notice**.
 
-All Active Pour Taps purchased separately from a Pinter will have a 12-month warranty. You warranty will begin when your Active Pour Tap has been deliveed and is valid for 12-months from this date. If you would like to make a warranty claim, please email our Customer Service team at [hello@pinter.co.uk](mailto:hello@pinter.co.uk), please include a photo of the issue you have and summarise the problem. Our Community Service team will investigate this issue for you and may ask you additional questions or ask you for additional photos to ensure we provide the right service for you. 
+## 16. CONTACT US
 
-  
-**FAULTY/MISSING/INCORRECT ITEMS**
+* 📧 **Email:** hello@pinter.co.uk
+* 💬 **Webchat:** Available via pinter.co.uk
 
-If your order is faulty or incorrect, we’d like to fix this straightaway. Please email [hello@pinter.co.uk](mailto:hello@pinter.co.uk) with details of your order, the issue, and any photos that may help.
+***
 
-The images of our products on our website or mobile app are for illustrative purposes only. Your product may vary slightly from those images.
-
-Product packaging may vary.
-
-The packaging of our products may be different from that shown on our website or app.
-
-Fair wear and tear
-
-Your rights do not apply to faults which result from fair wear and tear.
-
-  
-
-**PERSONAL DATA AND YOUR INFORMATION**
-
-Nothing is more important to us than our customers. We will always put your best interests first and that includes how we manage your data. We keep it safe and only keep it if it’s going to help us serve you better.
-
-Our Privacy Policy sets out how we’ll use your information.
-
-The data controller (the company that’s responsible for your privacy) for everything we do is Pinter.
-
-You may sign up to our mailing list if you’d like to be kept up to date with what we’re up to, and you can also unsubscribe at any time. 
-
-  
-
-**COMPETITIONS AND PRIZE DRAWS**
-
-To the extent permitted by applicable law, Pinter shall not be liable under or in connection with product giveaways, for any indirect, special or consequential cost, expense, loss or damage suffered by a participant. The liability under or in connection with the competition shall be limited to the cost price of the Prize in question. All winners of competitions, prize draws and giveaways will have 7 days from the day they are contacted to claim the prize. Failure to respond within 7 days will result in a new winner being selected.  
-
-**Prizes:** 
-
-Gift card prizes offered are subject to availability. The availability of specific gift cards may vary and are subject to change without prior notice. In the event that a particular gift card is not available, we reserve the right to substitute it with an equivalent offering at the same price point. The substituted gift card will be of similar value and purpose as the original prize. Any substitutions made will be done with the intention of providing a comparable and satisfactory alternative to the original gift card. We strive to ensure that the substituted gift card meets the preferences and interests of the recipient. We will not be offering cash alternatives to the prizes listed. 
-
-**Publicity rights:** 
-
-Winner(s) will be asked whether we are able to use their name, likeness, or other details for promotional purposes. 
-
-  
-
-**GIFT CARDS**
-
-Gift cards of all denominations (£10, £25, £50 and £100) are redeemable against any products that are in stock and on our website and are valid for 1 year from date of purchase. Gift cards can only be purchased one at a time. Multiple gift cards can be used in one order and can be used alongside discount codes. The total value of the gift card can be applied across multiple orders, providing there is balance remaining. Should you wish to refund a product paid for with a gift card, the balance will be returned onto the gift card.
-
-  
-
-**LEGAL SIDE OF THINGS**
-
-These terms and conditions shall be governed by and construed in accordance with English Law and it is agreed that the English courts shall have exclusive jurisdiction in the event of a dispute.
-
-We have the right and may change these terms and conditions from time to time without notice. Changes will apply to any subsequent orders received. 
-
-You’re allowed to store, print and display our Website content only for your own personal use. Unless you have our express permission, you are not allowed to use or reproduce any part of the Website for commercial purposes.
+© 2025 The Greater Good Fresh Brewing Company Ltd. All rights reserved.
