@@ -1,4 +1,4 @@
-# 📜 PINTER UK LTD — TERMS OF SERVICE
+# PINTER UK LTD - TERMS OF SERVICE
 
 **Last Updated:** 20th November 2025
 
