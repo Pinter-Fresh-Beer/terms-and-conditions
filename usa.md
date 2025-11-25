@@ -106,7 +106,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 **7.2 Promotional Offers**
 
-| Promotion | Offer | Commitment | Early Cancellation Fee |
+| Promotion | Offer | Commitment | Early Cancellation Hardware Charge |
 |-----------|-------|------------|------------------------|
 | **Free Pinter (Rolling Delivery Plan)** | 1 Pinter | Min 2 beer packs + 1 subsequent order (min 2 packs) | **$149** |
 | **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **$149** |
