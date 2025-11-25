@@ -12,7 +12,7 @@ We want you to love your Pinter experience. If you're not satisfied, here's how 
 - Contact hello@pinter.com to start your return
 
 ### After 30 Days (Delivery Plan Customers)
-If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, the Early Cancellation Fee still applies:
+If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a hardware charge still applies:
 
 | Promotional Offer | Hardware Charge |
 |-------------------|------------------------|
