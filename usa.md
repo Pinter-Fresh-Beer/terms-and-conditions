@@ -199,7 +199,6 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 📧 **Email:** hello@pinter.com  
 💬 **Webchat:** www.pinter.com  
-
 ---
 
 *© 2025 Pinter USA Group Inc. All rights reserved.*
