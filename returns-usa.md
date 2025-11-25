@@ -14,7 +14,7 @@ We want you to love your Pinter experience. If you're not satisfied, here's how 
 ### After 30 Days (Delivery Plan Customers)
 If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, the Early Cancellation Fee still applies:
 
-| Promotional Offer | Early Cancellation Fee |
+| Promotional Offer | Hardware Charge |
 |-------------------|------------------------|
 | Free Pinter | $149 |
 | Free Pinter + Co-Pinter | $248 |
@@ -23,18 +23,18 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 
 **What this means:**
 - You'll receive a refund for any unopened Pinter Packs you return
-- The Early Cancellation Fee will be charged to cover the retail value of the equipment you received at no or reduced cost
-- This fee was part of the promotional terms you agreed to at sign-up
+- The Hardware charge will be charged to cover the retail value of the equipment you received at no or reduced cost
+- This charge was part of the promotional terms you agreed to at sign-up
 
 ### Within 30 Days (Pay-As-You-Go Customers)
 - Return your Pinter machine unused and in original packaging for a **full refund**
 - Machine must be unopened or show no signs of use beyond initial inspection
-- **No cancellation fees apply** - you purchased outright with no commitment
+- **No hardware charges apply** - you purchased outright with no commitment
 - Contact hello@pinter.com or webchat to start your return
 - You must ship returns within 14 days of receiving authorization
 
 ### Faulty Machines
-- **Within 30 days:** Full refund (no Early Cancellation Fee applies for defective products)
+- **Within 30 days:** Full refund (no hardware charge applies for defective products)
 - **After 30 days:** Repair or replacement under warranty
 - Wear and tear not covered
 
@@ -85,7 +85,7 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 **Refunds will be issued to your original payment method:**
 - Pinter Packs: Full refund for unopened packs
 - Pinter Machine (Pay-As-You-Go): Full refund
-- Pinter Machine (Promotional Offer): Refund minus Early Cancellation Fee (if commitment incomplete)
+- Pinter Machine (Promotional Offer): Refund minus hardware charge(if commitment incomplete)
 
 **Processing time:**
 - Refunds processed within 5-10 business days after we receive your return
