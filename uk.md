@@ -1,4 +1,5 @@
-** PINTER UK LTD - TERMS OF SERVICE **
+**PINTER UK LTD  
+TERMS OF SERVICE**
 
 **Last Updated:** 20th November 2025
 
@@ -15,7 +16,7 @@ These Terms are written to comply with UK consumer law including:
 
 ---
 
-** 1. ABOUT US **
+**1. ABOUT US**
 
 - **Company Name:** The Greater Good Fresh Brewing Co (trading as Pinter)
 - **Registration:** Registered in England & Wales: 07213215
@@ -24,7 +25,9 @@ These Terms are written to comply with UK consumer law including:
 
 When you purchase from our Site, your contract is with The Greater Good Fresh Brewing Company Ltd.
 
-** 2. WHO CAN BUY FROM US **
+---
+
+**2. WHO CAN BUY FROM US**
 
 To place an order, you must:
 
@@ -34,7 +37,9 @@ To place an order, you must:
 
 > **Important:** Pinter Packs are non-alcoholic until brewed.
 
-** 3. ABOUT OUR PRODUCTS AND SERVICES **
+---
+
+**3. ABOUT OUR PRODUCTS AND SERVICES**
 
 | Product/Service    | Description                                                                    |
 | :----------------- | :----------------------------------------------------------------------------- |
@@ -45,7 +50,9 @@ To place an order, you must:
 
 Descriptions, images and specifications on our Site are for guidance only, but we take reasonable care to ensure accuracy.
 
-** 4. PLACING AN ORDER **
+---
+
+**4. PLACING AN ORDER**
 
 - You place an order by completing checkout on pinter.co.uk.
 - Your order is **accepted** when we send you an order confirmation email.
@@ -54,7 +61,9 @@ Descriptions, images and specifications on our Site are for guidance only, but w
 **Accepted Payment Methods:**
 Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and any additional methods shown at checkout.
 
-** 5. PAY-AS-YOU-GO PURCHASES **
+---
+
+**5. PAY-AS-YOU-GO PURCHASES**
 
 - You may purchase Pinters or Pinter Packs without joining a subscription.
 - Prices are in **GBP**.
@@ -62,7 +71,9 @@ Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and any addit
 - You may buy Pinter Packs in any available quantity.
 - No minimum order applies unless stated.
 
-** 6. DELIVERY **
+---
+
+**6. DELIVERY**
 
 - We deliver to **mainland UK, Northern Ireland, the Isle of Man, and the Channel Islands only.**
 - Delivery times on the Site or in emails are **estimates, not guarantees**.
@@ -70,11 +81,13 @@ Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and any addit
 - **Risk** passes to you on delivery.
 - **Ownership** passes to you once full payment is received.
 
-** 7. DELIVERY PLANS (SUBSCRIPTIONS) **
+---
+
+**7. DELIVERY PLANS (SUBSCRIPTIONS)**
 
 > This section is written to comply with CMA subscription rules, including transparency, cancellation rights, reminders and fairness standards.
 
-** 7.1 How Subscriptions Work **
+**7.1 How Subscriptions Work**
 
 By joining a Delivery Plan, you agree that:
 
@@ -89,7 +102,7 @@ Before completing subscription setup, we clearly display:
 - Any commitment, if applicable;
 - How to cancel.
 
-** 7.2 Managing Your Subscription **
+**7.2 Managing Your Subscription**
 
 You may update your subscription through your online account. You can:
 
@@ -100,7 +113,7 @@ You may update your subscription through your online account. You can:
 
 > **Note:** Changes must be made before **11:59pm UK time the day before your next billing date**. Orders already processed or dispatched cannot usually be changed.
 
-** 7.3 Cancelling Your Subscription **
+**7.3 Cancelling Your Subscription**
 
 Unless you have signed up to a promotional offer with a clearly stated minimum term, you may cancel at any time.
 
@@ -111,7 +124,7 @@ You can cancel by:
 
 Cancellations take effect immediately for future billing. You will receive a cancellation confirmation email.
 
-** 7.4 Annual Subscription Reminder **
+**7.4 Annual Subscription Reminder**
 
 At least once every 12 months, we will send you a reminder stating:
 
@@ -119,11 +132,13 @@ At least once every 12 months, we will send you a reminder stating:
 - That you are still being billed;
 - How to cancel easily.
 
-** 8. PROMOTIONS, INTRODUCTORY OFFERS & COMMITMENT PLANS **
+---
+
+**8. PROMOTIONS, INTRODUCTORY OFFERS & COMMITMENT PLANS**
 
 Promotions are offered from time to time and may include discounts, free gifts, or reduced-price devices. We always present promotional terms clearly and upfront, including any minimum subscription commitment.
 
-** 8.1 General Promotional Rules **
+**8.1 General Promotional Rules**
 
 - Promotions cannot be transferred, exchanged or combined unless stated.
 - Only **one promotional or discount code** may be used per order.
@@ -131,7 +146,7 @@ Promotions are offered from time to time and may include discounts, free gifts, 
 - **Introductory offers** are one per household, based on delivery address, billing address and/or payment method.
 - If we identify multiple introductory offers from the same household, we may cancel additional orders and refund you.
 
-** 8.2 Commitment-Based Promotions (e.g., Free or Discounted Pinter) **
+**8.2 Commitment-Based Promotions (e.g., Free or Discounted Pinter)**
 
 If you receive a discounted or free device, a minimum subscription commitment may apply. The commitment will be:
 
@@ -139,7 +154,7 @@ If you receive a discounted or free device, a minimum subscription commitment ma
 - Explained in the promotional details;
 - Confirmed in your order email.
 
-** 8.2.1. Promotional Offers **
+**8.2.1 Promotional Offers**
 
 | Promotion                                                                                       | Offer                                 | Commitment                                                                                | Early Cancellation Fee |
 | :---------------------------------------------------------------------------------------------- | :------------------------------------ | :---------------------------------------------------------------------------------------- | :--------------------- |
@@ -149,22 +164,24 @@ If you receive a discounted or free device, a minimum subscription commitment ma
 
 After fulfilling the commitment, standard delivery plan rules apply.
 
-** 8.2.2 Early Cancellation Fee Charge **
+**8.2.2 Early Cancellation Fee Charge**
 
 - If you cancel before completing the required number of paid subscription orders, you may be required to pay an **early cancellation fee/charge**.
 - This charge will **never exceed the value of the discount or free gift** you received.
 - The exact amount will be stated clearly in the promotional terms.
 - Skipping, pausing or rescheduling orders **does not reduce the minimum commitment**.
 
-** 8.3 Referral Codes **
+**8.3 Referral Codes**
 
 Referral codes apply to **new customers only** and cannot be combined with other promotions unless specifically stated.
 
-** 9. RETURNS, CANCELLATIONS & REFUNDS **
+---
+
+**9. RETURNS, CANCELLATIONS & REFUNDS**
 
 > This section summarises your rights under UK consumer law.
 
-** 9.1 14-Day Right to Cancel (Consumer Contracts Regulations) **
+**9.1 14-Day Right to Cancel (Consumer Contracts Regulations)**
 
 For most items, you have the right to cancel your order:
 
@@ -173,7 +190,7 @@ For most items, you have the right to cancel your order:
 
 To cancel, email **hello@pinter.co.uk**. You must return the goods within 14 days of notifying us. Unless an item is faulty, you are responsible for return postage costs.
 
-** 9.2 Condition of Returned Goods **
+**9.2 Condition of Returned Goods**
 
 Returned items must be:
 
@@ -183,7 +200,7 @@ Returned items must be:
 
 We may reduce your refund if the item is handled beyond what is reasonable to inspect it.
 
-** 9.3 Faulty Goods (Consumer Rights Act 2015) **
+**9.3 Faulty Goods (Consumer Rights Act 2015)**
 
 You are entitled to:
 
@@ -193,24 +210,30 @@ You are entitled to:
 
 > This does not cover faults resulting from misuse, accidental damage or normal wear and tear.
 
-** 9.4 Warranty **
+**9.4 Warranty**
 
 Pinter and Co-Pinter devices include a **12-month warranty** covering manufacturing defects. To make a claim, contact **hello@pinter.co.uk** with photos and a description of the issue.
 
-** 10. PRICES & VOUCHERS **
+---
+
+**10. PRICES & VOUCHERS**
 
 - All prices include **VAT** where applicable.
 - Only **one discount code** may be used per order.
 - Free gifts have no cash value.
 - If subscription prices change, we will give you **advance notice** before your next billing date, and you may cancel if you do not wish to continue.
 
-** 11. PRIVACY **
+---
+
+**11. PRIVACY**
 
 - We comply with the **UK GDPR and Data Protection Act 2018**.
 - See our full Privacy Policy on **https://pinter.co.uk/pages/privacy-cookie-policy**
 - You can opt out of marketing emails at any time.
 
-** 12. OUR LIABILITY **
+---
+
+**12. OUR LIABILITY**
 
 We are responsible for loss or damage that is:
 
@@ -225,11 +248,15 @@ We do not exclude liability for:
 
 > **Note:** Our products are intended for personal, domestic use. We are not liable for business losses.
 
-** 13. EVENTS OUTSIDE OUR CONTROL **
+---
+
+**13. EVENTS OUTSIDE OUR CONTROL**
 
 If an event outside our reasonable control affects our ability to fulfil your order (e.g., severe weather, courier disruption), we will inform you as soon as possible and take reasonable steps to reduce the impact.
 
-** 14. GOVERNING LAW & DISPUTES **
+---
+
+**14. GOVERNING LAW & DISPUTES**
 
 - These Terms are governed by the laws of **England and Wales**.
 - If you are unhappy with how we have handled a complaint, you may use:
@@ -237,17 +264,21 @@ If an event outside our reasonable control affects our ability to fulfil your or
   - The **Online Dispute Resolution platform**.
 - You always retain the right to take the matter to the **UK courts**.
 
-** 15. CHANGES TO THESE TERMS **
+---
+
+**15. CHANGES TO THESE TERMS**
 
 - We may update these Terms occasionally.
 - The latest version will always be available on pinter.co.uk.
 - If a change significantly affects your subscription or your rights, we will provide **reasonable advance notice**.
 
-** 16. CONTACT US **
+---
+
+**16. CONTACT US**
 
 - 📧 **Email:** hello@pinter.co.uk
 - 💬 **Webchat:** Available via pinter.co.uk
 
 ---
 
-© 2025 The Greater Good Fresh Brewing Company Ltd. All rights reserved.
+_© 2025 The Greater Good Fresh Brewing Company Ltd. All rights reserved._
