@@ -148,15 +148,15 @@ Promotions are offered from time to time and may include discounts, free gifts, 
 
 **8.2 Commitment-Based Promotions (e.g., Free or Discounted Pinter)**
 
-If you receive a discounted or free device, a minimum subscription commitment may apply. The commitment will be:
+If you receive a discounted or free device, a minimum subscription commitment may apply (e.g. when signing up for a delivery plan). The commitment will be:
 
-- Clearly displayed when signing up for your account before checkout;
+- Clearly displayed when on checkout;
 - Explained in the promotional details;
 - Confirmed in your order email.
 
 **8.2.1 Promotional Offers**
 
-| Promotion                                                                                       | Offer                                 | Commitment                                                                                | Early Cancellation Fee |
+| Promotion                                                                                       | Offer                                 | Commitment                                                                                | Early Cancellation Hardware Charge |
 | :---------------------------------------------------------------------------------------------- | :------------------------------------ | :---------------------------------------------------------------------------------------- | :--------------------- |
 | **Free Pinter (Rolling Delivery Plan)**                                                         | 1 Pinter                              | Min 2 beer packs + 1 subsequent order (min 2 packs)                                       | £99                    |
 | **Free Pinter (Fresh Brewer Plan - 7 Orders, 2 packs per order)**                               | 1 Pinter                              | Minimum 2 beer packs purchased with the Pinter + 6 subsequent orders of min 2 beer packs  | £99                    |
@@ -164,9 +164,9 @@ If you receive a discounted or free device, a minimum subscription commitment ma
 
 After fulfilling the commitment, standard delivery plan rules apply.
 
-**8.2.2 Early Cancellation Fee Charge**
+**8.2.2 Early Cancellation Hardware Charges**
 
-- If you cancel before completing the required number of paid subscription orders, you may be required to pay an **early cancellation fee/charge**.
+- If you cancel before completing the required number of orders, you may be required to pay an **early cancellation charge**.
 - This charge will **never exceed the value of the discount or free gift** you received.
 - The exact amount will be stated clearly in the promotional terms.
 - Skipping, pausing or rescheduling orders **does not reduce the minimum commitment**.
