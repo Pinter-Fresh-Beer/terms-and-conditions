@@ -110,7 +110,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 |-----------|-------|------------|------------------------|
 | **Free Pinter (Rolling Delivery Plan)** | 1 Pinter | Min 2 beer packs + 1 subsequent order (min 2 packs) | **$149** |
 | **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **$149** |
-| **Free Pinter + Co-Pinter + $50 Off Beers (Master Brewer Plan)** | Pinter + Co-Pinter + $50 off | Min 2 packs + 12 subsequent orders | **$298** |
+| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **$248** |
 
 **Notes:**  
 - Required commitments can't be reduced by skips  
