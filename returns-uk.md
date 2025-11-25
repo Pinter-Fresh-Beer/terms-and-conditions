@@ -1,80 +1,140 @@
-📦
+# RETURN POLICY
 
-
-**Refunds on Pinters Ordered with Subscription Offers**
-
-We want you to enjoy brewing with your Pinter and feel confident in your subscription. If something’s not right, we’re here to help. If you'd like to return your Pinter after buying on a subscription offer, here is our policy:
+We want you to love your Pinter experience. If you're not satisfied, here's how returns work:
 
 ---
 
-**1. Cancel Before Your First Order Ships**
+## PINTER MACHINES
 
-If your first order (including the Pinter and your first Pinter Packs) hasn’t shipped:
+### Within 30 Days (Delivery Plan Customers)
+- Return your Pinter machine unused and in original packaging for a refund
+- Machine must be unopened or show no signs of use beyond initial inspection
+- Contact hello@pinter.co.uk to start your return
 
-• Contact us via email or live chat before dispatch  
-• We will cancel your order and issue a full refund to your original payment method
+### After 30 Days (Delivery Plan Customers)
+If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a hardware charge still applies:
 
-**2. Return Within 30 Days – Unused First Order**
+| Promotional Offer | Hardware Charge |
+|-------------------|------------------------|
+| Free Pinter | £99 |
+| Free Pinter + Co-Pinter | £168 |
+| Free Pinter + Co-Pinter + £20 Off | £188|
 
-If your first order has been delivered but remains unopened and unused — and it’s within 30 days of purchase:
+**What this means:**
+- You'll receive a refund for any unopened Pinter Packs you return
+- The Hardware charge will be charged to cover the retail value of the equipment you received at no or reduced cost
+- This charge was part of the promotional terms you agreed to at sign-up
 
-• Contact us to request cancellation  
-• Return the full shipment (Pinter and Pinter Packs) unused  
-• Once we receive the return or proof of return, we’ll issue a full refund
+### Within 30 Days (Pay-As-You-Go Customers)
+- Return your Pinter machine unused and in original packaging for a **full refund**
+- Machine must be unopened or show no signs of use beyond initial inspection
+- **No hardware charges apply** - you purchased outright with no commitment
+- Contact hello@pinter.co.uk or webchat to start your return
+- You must ship returns within 14 days of receiving authorization
 
-**3. Cancellations After Your First Subscription Order**
-
-If you’ve already been charged for your first subscription order:
-
-• You can cancel anytime to stop future shipments  
-• Refunds are not available for any orders already processed or shipped
-
-**4. Used First Order or Outside 30-Day Guarantee**
-
-If you’ve used your first shipment, or it’s been more than 30 days since purchase, you’re not eligible for a full refund — but you still have options:
-
-**Option A – Second Order Not Yet Shipped**  
-• Pay a £99 hardware fee to keep your Pinter  
-• We’ll cancel your second shipment and stop your subscription  
-
-**Option B – Second Order Already Shipped**  
-• Pay a £99 cancellation fee to keep your Pinter  
-• We’ll cancel your subscription  
-• If you return the second Pinter Pack unopened, we’ll refund the pack’s value once we receive it or proof of return
-
-NB the £99 hardware fee would only apply if you are cancelling before your first subscription order is processed.
-
-
-**Need Help?**
-
-Our Customer Service team is here to support you. Please get in touch via hello@pinter.co.uk or our webchat if you have questions about your order, subscription, or return eligibility.
+### Faulty Machines
+- **Within 30 days:** Full refund (no hardware charge applies for defective products)
+- **After 30 days:** Repair or replacement under warranty
+- Wear and tear not covered
 
 ---
 
-**Other Returns**
+## PINTER PACKS
 
-If you decide to return something to us, you will need to email hello@pinter.co.uk or via webchat with details of your return within 14 days of receiving the product. The product must be unused and in its original packaging. After your return is authorised, you have an additional 14 days to send it back for a refund.
+### Within 30 Days (Delivery Plan Customers)
+- Return unopened Pinter Packs in original packaging for a full refund
+- Packs must be unopened and in resalable condition
+- Contact hello@pinter.co.uk or webchat to start your return
+- You must ship returns within 14 days of receiving authorization
 
-If the product is faulty, you have the right to return it for a refund within 30 days of receiving it.
 
-If the product is faulty and it has been over 30 days since receipt, we have the right to attempt to resolve the issue first — this may include a repair or replacement. If that fails, a refund will be issued.
+**Opened Pinter Packs cannot be returned**
 
-Please note: this does not apply if you are returning a faulty Pinter Pack that is outside its best before date as shown on the Fresh Press.
+---
 
-**Your Pinter and Co-Pinter Warranty**
+## RETURN SHIPPING COSTS
 
-All Pinters and Co-Pinters include a 12-month warranty from the date of delivery. This covers product faults but does not cover accidental damage or misuse (e.g. using ingredients not supplied in a Pinter Pack).
+### Faulty or defective products:
+- We'll cover return shipping costs
+- Contact us for a prepaid return label
 
-You’ll receive an email to register your warranty once your Pinter ships. If gifting, you can forward this to the recipient. Second-hand Pinter owners must contact the original purchaser for the order number and complete the transfer form.
+### Change of mind returns:
+- You're responsible for return shipping costs
+- We recommend using a trackable shipping method
+- Items are your responsibility until they reach us
 
-If you'd like to make a warranty claim, complete the form first, then contact hello@pinter.co.uk or via webchat with details and a photo of the issue. Our team may request additional photos or information to determine the best solution. If a fault is confirmed, we may replace the faulty part or the full unit depending on the case.
+---
 
-**Faulty, Missing or Incorrect Items**
+## HOW TO RETURN
 
-If your order is faulty or incorrect, contact us at hello@pinter.co.uk or via webchat with your order details, issue, and supporting photos where possible.
+1. **Contact us** at hello@pinter.co.uk or via webchat within the applicable timeframe
+2. **Wait for authorization** - we'll send you return instructions and any applicable charges
+3. **Ship your return** within 14 days of receiving authorization
+4. **Receive your refund** within 5-10 business days after we receive your return
 
-Product images on our website and app are for illustration only. The actual product may vary.
+**What we need:**
+- Items unused and in original packaging
+- All components included
+- Proof of purchase (order number)
 
-Packaging may also vary from that shown online.
+---
 
-**Fair wear and tear:** Faults resulting from fair wear and tear are not covered under your rights.
+## REFUND DETAILS
+
+**Refunds will be issued to your original payment method:**
+- Pinter Packs: Full refund for unopened packs
+- Pinter Machine (Pay-As-You-Go): Full refund
+- Pinter Machine (Promotional Offer): Refund minus hardware charge(if commitment incomplete)
+
+**Processing time:**
+- Refunds processed within 5-10 business days after we receive your return
+- Allow additional time for your bank or card issuer to process the credit
+
+---
+
+## 12-MONTH WARRANTY
+
+Your Pinter machine is covered by a 12-month warranty against manufacturing defects.
+
+**What's covered:**
+- Manufacturing defects
+- Faulty components
+
+**What's not covered:**
+- Normal wear and tear
+- Misuse or accidental damage
+- Damage from improper cleaning or storage
+
+**To make a warranty claim:**
+- Email hello@pinter.co.uk with photos of the issue
+- Include your order number
+- Register your Pinter using the link in your shipment email
+
+---
+
+## NON-RETURNABLE ITEMS
+
+- Opened or used Pinter Packs
+- Items not in original packaging
+- Equipment showing signs of use beyond initial inspection
+- Items returned without authorization
+
+---
+
+## PROCESSED OR SHIPPED ORDERS
+
+Once your order has been processed or shipped:
+- It cannot be cancelled
+- You may return it following the guidelines above
+
+---
+
+## QUESTIONS?
+
+Contact us anytime:
+📧 **Email:** hello@pinter.co.uk
+💬 **Webchat:** www.pinter.co.uk
+
+---
+
+**Note:** This return policy applies to purchases made at www.pinter.co.uk. For full terms, see our Terms and Conditions.
