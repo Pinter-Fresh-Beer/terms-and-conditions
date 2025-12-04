@@ -130,7 +130,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 **8. REFUNDS AND RETURNS**
 
-**8.1 Delivery Plan Orders**
+**8.1 Pinter Orders**
 
 - **Before shipment:** Full refund  
 - **Within 30 days (unused):** Return Pinter + Packs unopened for refund  
