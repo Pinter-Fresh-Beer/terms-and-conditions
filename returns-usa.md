@@ -97,20 +97,6 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 
 - Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
-**What's covered:**
-- Manufacturing defects
-- Faulty components
-
-**What's not covered:**
-- Normal wear and tear
-- Misuse or accidental damage
-- Damage from improper cleaning or storage
-
-**To make a warranty claim:**
-- Email hello@pinter.com with photos of the issue
-- Include your order number
-- Register your Pinter using the link in your shipment email
-
 ---
 
 ## NON-RETURNABLE ITEMS
