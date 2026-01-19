@@ -212,7 +212,7 @@ You are entitled to:
 
 **9.4 Warranty**
 
-Pinter and Co-Pinter devices include a **12-month warranty** covering manufacturing defects. To make a claim, contact **hello@pinter.co.uk** with photos and a description of the issue.
+Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
 ---
 
