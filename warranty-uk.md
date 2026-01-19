@@ -106,7 +106,7 @@ We do not exclude or limit liability where the law does not allow us to do so, i
 
 **10. PRE-PURCHASE AVAILABILITY**
 
-These warranty terms are made available before purchase at [website] and are also accessible inside the Product packaging through a QR code link.
+These warranty terms are made available before purchase at [https://pinter.com/pages/warranty](https://pinter.com/pages/warranty) and are also accessible inside the Product packaging through a QR code link.
 
 ---
 
