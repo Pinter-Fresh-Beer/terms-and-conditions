@@ -92,7 +92,7 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 
 ---
 
-## 12-MONTH WARRANTY
+## WARRANTY
 
 - Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
