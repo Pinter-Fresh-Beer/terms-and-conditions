@@ -95,7 +95,7 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 
 ## 12-MONTH WARRANTY
 
-Your Pinter machine is covered by a 12-month warranty against manufacturing defects.
+- Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
 **What's covered:**
 - Manufacturing defects
