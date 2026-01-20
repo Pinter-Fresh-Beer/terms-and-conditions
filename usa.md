@@ -20,7 +20,8 @@ For the purposes of these Terms:
 - **"Pinter Pack"** means a pack of ingredients intended for use with a Pinter machine.  
 - **"Delivery Plan"** means recurring orders of Pinter Packs shipped automatically on a set schedule.  
 - **"Household"** means all individuals sharing the same delivery or payment address.  
-- **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.  
+- **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.
+- **"Promotional Hardware"** means where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or $0 upfront price
 
 ---
 
