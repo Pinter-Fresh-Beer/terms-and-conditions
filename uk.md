@@ -121,7 +121,7 @@ Unless you have signed up to a promotional offer with a clearly stated minimum t
 
 If you wish to cancel a Delivery Plan *before* completing the required minimum number of deliveries, you must either
 
-- **Within 30 days of initial Delivery Plan order**: Return the Promotional Hardware clean, in perfect working condition, and original packaging to Pinter. If the Promotional Hardware is not returned within the required timeframe, Pinter will automatically charge the Deferred Hardware Charge to the payment method on file, or issue an invoice if that charge is unsuccessful.
+- **Within 30 days of initial Delivery Plan order**: Return the Promotional Hardware unused, in perfect working condition, and original packaging to Pinter. If the Promotional Hardware is not returned within the required timeframe, Pinter will automatically charge the Deferred Hardware Charge to the payment method on file, or issue an invoice if that charge is unsuccessful.
 
 - **After 30 days of initial Delivery Plan order:** Pay the applicable Deferred Hardware Charge listed below.
 
