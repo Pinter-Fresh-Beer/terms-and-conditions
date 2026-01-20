@@ -130,7 +130,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 **8. REFUNDS AND RETURNS**
 
-**8.1 Delivery Plan Orders**
+**8.1 Pinter Orders**
 
 - **Before shipment:** Full refund  
 - **Within 30 days (unused):** Return Pinter + Packs unopened for refund  
@@ -148,10 +148,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 **8.3 Warranty**
 
-- **12-month warranty** (manufacturing defects only)  
-- Excludes misuse or accidental damage  
-- Register via shipment email  
-- Claims: email hello@pinter.com with photos  
+- Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
 ---
 
