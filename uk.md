@@ -47,6 +47,7 @@ To place an order, you must:
 | **Co-Pinter**      | An accessory for use with a Pinter.                                            |
 | **Pinter Packs**   | Ingredient packs designed for use with a Pinter.                               |
 | **Delivery Plans** | Optional subscription plans that deliver Pinter Packs on a recurring schedule. |
+| **Promotional Hardware** | Where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or £0 upfront price. |
 
 Descriptions, images and specifications on our Site are for guidance only, but we take reasonable care to ensure accuracy.
 
