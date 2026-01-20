@@ -1,7 +1,7 @@
 **PINTER USA GROUP INC.  
 TERMS AND CONDITIONS**
 
-**Last Updated:** November 7 2025
+**Last Updated:** January 20th 2026
 
 ---
 
