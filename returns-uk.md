@@ -12,13 +12,16 @@ We want you to love your Pinter experience. If you're not satisfied, here's how 
 - Contact hello@pinter.co.uk to start your return
 
 ### After 30 Days (Delivery Plan Customers)
-If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a hardware charge still applies:
+If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a deferred hardware charge still applies:
 
 | Promotional Offer | Hardware Charge |
 |-------------------|------------------------|
 | Free Pinter | £99 |
 | Free Pinter + Co-Pinter | £168 |
-| Free Pinter + Co-Pinter + £20 Off | £188|
+
+A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Delivery Plan commitments are not fulfilled. Payment of this charge transfers ownership of the Promotional Hardware to the customer. Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
+
+Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardware transfers to the customer.
 
 **What this means:**
 - You'll receive a refund for any unopened Pinter Packs you return
