@@ -6,12 +6,12 @@ We want you to love your Pinter experience. If you're not satisfied, here's how 
 
 ## PINTER MACHINES
 
-### Within 30 Days (Delivery Plan Customers)
+### Within 30 Days of Receipt (Delivery Plan Customers)
 - Return your Pinter machine unused and in original packaging for a refund
 - Machine must be unopened or show no signs of use beyond initial inspection
 - Contact hello@pinter.com to start your return
 
-### After 30 Days (Delivery Plan Customers)
+### After 30 Days of Receipt (Delivery Plan Customers)
 If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a hardware charge still applies:
 
 | Promotional Offer | Hardware Charge |
@@ -36,15 +36,15 @@ Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardw
 - You must ship returns within 14 days of receiving authorization
 
 ### Faulty Machines
-- **Within 30 days:** Full refund (no hardware charge applies for defective products)
-- **After 30 days:** Repair or replacement under warranty
+- **Within 30 days of Receipt:** Full refund (no hardware charge applies for defective products)
+- **After 30 days of Receipt:** Repair or replacement under warranty
 - Wear and tear not covered
 
 ---
 
 ## PINTER PACKS
 
-### Within 30 Days (Delivery Plan Customers)
+### Within 30 Days of Receipt (Delivery Plan Customers)
 - Return unopened Pinter Packs in original packaging for a full refund
 - Packs must be unopened and in resalable condition
 - Contact hello@pinter.com or webchat to start your return
