@@ -26,7 +26,7 @@ Your minimum commitment is presented when selecting your Pinter deal, and confir
 **If you want to cancel before completing your commitment:**
 
 - You can cancel at any time by contacting us at hello@pinter.com or through webchat
-- A hardware charge will apply (see table below)
+- A deferred hardware charge will apply (see table below)
 - This charge represents the retail value of the equipment you received for free or at a discount
 - You keep all equipment you've received
 
@@ -37,13 +37,13 @@ Your minimum commitment is presented when selecting your Pinter deal, and confir
 
 ---
 
-### Early Cancellation Hardware Charges
+### Deferred Hardware Charges
 
 | Promotional Offer                 | Hardware Charge |
 | --------------------------------- | --------------- |
 | Free Pinter                       | $149            |
 | Free Pinter + Co-Pinter           | $248            |
-| Free Pinter + Co-Pinter + $50 Off | $298            |
+
 
 ---
 
