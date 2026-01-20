@@ -18,8 +18,10 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 |-------------------|------------------------|
 | Free Pinter | $149 |
 | Free Pinter + Co-Pinter | $248 |
-| Free Pinter + Co-Pinter + $50 Off | $298 |
-| Free Pinter + Co-Pinter + Glasses + $75 Off | $383 |
+
+A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Delivery Plan commitments are not fulfilled. Payment of this charge transfers ownership of the Promotional Hardware to the customer. Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
+
+Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardware transfers to the customer.
 
 **What this means:**
 - You'll receive a refund for any unopened Pinter Packs you return
