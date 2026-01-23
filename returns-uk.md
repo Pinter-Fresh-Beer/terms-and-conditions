@@ -6,19 +6,22 @@ We want you to love your Pinter experience. If you're not satisfied, here's how 
 
 ## PINTER MACHINES
 
-### Within 30 Days (Delivery Plan Customers)
+### Within 30 Days of Receipt (Delivery Plan Customers)
 - Return your Pinter machine unused and in original packaging for a refund
 - Machine must be unopened or show no signs of use beyond initial inspection
 - Contact hello@pinter.co.uk to start your return
 
-### After 30 Days (Delivery Plan Customers)
-If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a hardware charge still applies:
+### After 30 Days of Receipt (Delivery Plan Customers)
+If you received your Pinter through a promotional offer (free Pinter, free Co-Pinter, etc.) and return before completing your minimum commitment, a deferred hardware charge still applies:
 
 | Promotional Offer | Hardware Charge |
 |-------------------|------------------------|
 | Free Pinter | £99 |
 | Free Pinter + Co-Pinter | £168 |
-| Free Pinter + Co-Pinter + £20 Off | £188|
+
+A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Delivery Plan commitments are not fulfilled. Payment of this charge transfers ownership of the Promotional Hardware to the customer. Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
+
+Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardware transfers to the customer.
 
 **What this means:**
 - You'll receive a refund for any unopened Pinter Packs you return
@@ -41,7 +44,7 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 
 ## PINTER PACKS
 
-### Within 30 Days (Delivery Plan Customers)
+### Within 30 Days of Receipt (Delivery Plan Customers)
 - Return unopened Pinter Packs in original packaging for a full refund
 - Packs must be unopened and in resalable condition
 - Contact hello@pinter.co.uk or webchat to start your return
