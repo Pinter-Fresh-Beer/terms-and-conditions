@@ -1,7 +1,7 @@
 **PINTER UK LTD  
 TERMS OF SERVICE**
 
-**Last Updated:** 20th November 2025
+**Last Updated:** 20th January 2026
 
 These Terms and Conditions (“Terms”) apply when you use www.pinter.co.uk (the “Site”) or purchase any products or subscription services from The Greater Good Fresh Brewing Co (“Pinter”, “we”, “us”, “our”).
 
@@ -47,6 +47,7 @@ To place an order, you must:
 | **Co-Pinter**      | An accessory for use with a Pinter.                                            |
 | **Pinter Packs**   | Ingredient packs designed for use with a Pinter.                               |
 | **Delivery Plans** | Optional subscription plans that deliver Pinter Packs on a recurring schedule. |
+| **Promotional Hardware** | Where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or £0 upfront price. |
 
 Descriptions, images and specifications on our Site are for guidance only, but we take reasonable care to ensure accuracy.
 
@@ -85,37 +86,51 @@ Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and any addit
 
 **7. DELIVERY PLANS (SUBSCRIPTIONS)**
 
-> This section is written to comply with CMA subscription rules, including transparency, cancellation rights, reminders and fairness standards.
-
-**7.1 How Subscriptions Work**
+**7.1 How Delivery Plans Work**
 
 By joining a Delivery Plan, you agree that:
 
-- You will receive Pinter Packs on a **recurring basis** (every 4 weeks or another frequency shown on our Site).
-- We will **automatically charge** your chosen payment method on each billing date.
-- Charges and delivery schedules will continue **until you cancel**.
+- You will receive Pinter Packs on a **recurring basis** (every 4 weeks or another frequency shown on our site)
+- We will **automatically charge** your chosen payment method on each billing date
+- Charges and delivery schedules will continue **until you cancel**
+- **Processed or shipped orders cannot be changed or refunded**
+
+Where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or £0 upfront price (“Promotional Hardware”), legal title to the Promotional Hardware remains with Pinter until the customer has completed all required subscription commitments associated with that Promotion. Promotional Hardware is provided conditionally and is not deemed “free” unless and until the applicable minimum number of deliveries has been successfully billed and fulfilled.
 
 Before completing subscription setup, we clearly display:
 
-- The recurring price;
-- Frequency of billing;
-- Any commitment, if applicable;
-- How to cancel.
+- The recurring price
+- Frequency of billing
+- Any commitment, if applicable
+- How to cancel
 
-**7.2 Managing Your Subscription**
+**7.2 Managing Your Delivery Plan**
 
 You may update your subscription through your online account. You can:
 
-- Change the products you receive;
-- Change your delivery frequency;
-- Update your payment method;
-- Change your delivery address.
+- Change the products you receive
+- Change your delivery frequency
+- Update your payment method
+- Change your delivery address
 
 > **Note:** Changes must be made before **11:59pm UK time the day before your next billing date**. Orders already processed or dispatched cannot usually be changed.
 
-**7.3 Cancelling Your Subscription**
+**7.3 Cancelling Your Delivery Plan/Subscription**
 
 Unless you have signed up to a promotional offer with a clearly stated minimum term, you may cancel at any time.
+
+If you wish to cancel a Delivery Plan *before* completing the required minimum number of deliveries, you must either
+
+- **Within 30 days of initial Delivery Plan order**: Return the Promotional Hardware unused, in perfect working condition, and original packaging to Pinter. If the Promotional Hardware is not returned within the required timeframe, Pinter will automatically charge the Deferred Hardware Charge to the payment method on file, or issue an invoice if that charge is unsuccessful.
+
+- **After 30 days of initial Delivery Plan order:** Pay the applicable Deferred Hardware Charge listed below.
+
+| Promotion | Offer | Commitment | Deferred Hardware Charge |
+|-----------|-------|------------|------------------------|
+| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **£99** |
+| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **£168** |
+
+Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardware transfers to the customer.
 
 You can cancel by:
 
@@ -123,6 +138,8 @@ You can cancel by:
 - Emailing hello@pinter.co.uk.
 
 Cancellations take effect immediately for future billing. You will receive a cancellation confirmation email.
+
+
 
 **7.4 Annual Subscription Reminder**
 
@@ -140,38 +157,29 @@ Promotions are offered from time to time and may include discounts, free gifts, 
 
 **8.1 General Promotional Rules**
 
-- Promotions cannot be transferred, exchanged or combined unless stated.
-- Only **one promotional or discount code** may be used per order.
-- We may amend or withdraw any promotion if necessary (e.g., due to error, misuse or fraud).
-- **Introductory offers** are one per household, based on delivery address, billing address and/or payment method.
-- If we identify multiple introductory offers from the same household, we may cancel additional orders and refund you.
+- Promotions cannot be transferred, exchanged or combined unless stated
+- Only **one promotional or discount code** may be used per order
+- We reserve the right to carry out fraud or misuse checks at any time before or after an order is placed
+- Fraud or misuse may result in cancellation and permanent blocking of any further purchases
+- We may amend or withdraw any promotion if necessary (e.g., due to error, misuse or fraud)
+- **Introductory offers** are one per household, based on delivery address, billing address and/or payment method
+- If we identify multiple introductory offers from the same household, we may cancel additional orders and refund you
 
 **8.2 Commitment-Based Promotions (e.g., Free or Discounted Pinter)**
 
 If you receive a discounted or free device, a minimum subscription commitment may apply (e.g. when signing up for a delivery plan). The commitment will be:
 
-- Clearly displayed when on checkout;
-- Explained in the promotional details;
-- Confirmed in your order email.
-
-**8.2.1 Promotional Offers**
-
-| Promotion                                                                                       | Offer                                 | Commitment                                                                                | Early Cancellation Hardware Charge |
-| :---------------------------------------------------------------------------------------------- | :------------------------------------ | :---------------------------------------------------------------------------------------- | :--------------------- |
-| **Free Pinter (Rolling Delivery Plan)**                                                         | 1 Pinter                              | Min 2 beer packs + 1 subsequent order (min 2 packs)                                       | £99                    |
-| **Free Pinter (Fresh Brewer Plan - 7 Orders, 2 packs per order)**                               | 1 Pinter                              | Minimum 2 beer packs purchased with the Pinter + 6 subsequent orders of min 2 beer packs  | £99                    |
-| **Free Pinter + Co-Pinter + £20 Off Beers (Master Brewer Plan - 13 Orders, 2 packs per order)** | 1 Pinter + 1 Co-Pinter + £20 off beer | Minimum 2 beer packs purchased with the Pinter + 12 subsequent orders of min 2 beer packs | £188                   |
+- Clearly displayed when on checkout
+- Explained in the promotional details
+- Confirmed in your order email
 
 After fulfilling the commitment, standard delivery plan rules apply.
 
-**8.2.2 Early Cancellation Hardware Charges**
+**8.3 Deferred Hardware Charges**
 
-- If you cancel before completing the required number of orders, you may be required to pay an **early cancellation charge**.
-- This charge will **never exceed the value of the discount or free gift** you received.
-- The exact amount will be stated clearly in the promotional terms.
-- Skipping, pausing or rescheduling orders **does not reduce the minimum commitment**.
+A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Delivery Plan commitments are not fulfilled. Payment of this charge transfers ownership of the Promotional Hardware to the customer. Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
 
-**8.3 Referral Codes**
+**8.4 Referral Codes**
 
 Referral codes apply to **new customers only** and cannot be combined with other promotions unless specifically stated.
 
@@ -194,8 +202,8 @@ To cancel, email **hello@pinter.co.uk**. You must return the goods within 14 day
 
 Returned items must be:
 
-- Unused;
-- In their original packaging;
+- Unused
+- In their original packaging
 - In resaleable condition.
 
 We may reduce your refund if the item is handled beyond what is reasonable to inspect it.
@@ -212,7 +220,7 @@ You are entitled to:
 
 **9.4 Warranty**
 
-Pinter and Co-Pinter devices include a **12-month warranty** covering manufacturing defects. To make a claim, contact **hello@pinter.co.uk** with photos and a description of the issue.
+Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
 ---
 

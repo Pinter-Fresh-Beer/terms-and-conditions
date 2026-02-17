@@ -1,7 +1,7 @@
 **PINTER USA GROUP INC.  
 TERMS AND CONDITIONS**
 
-**Last Updated:** November 7 2025
+**Last Updated:** January 20th 2026
 
 ---
 
@@ -20,7 +20,8 @@ For the purposes of these Terms:
 - **"Pinter Pack"** means a pack of ingredients intended for use with a Pinter machine.  
 - **"Delivery Plan"** means recurring orders of Pinter Packs shipped automatically on a set schedule.  
 - **"Household"** means all individuals sharing the same delivery or payment address.  
-- **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.  
+- **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.
+- **"Promotional Hardware"** means where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or $0 upfront price
 
 ---
 
@@ -85,7 +86,25 @@ Delivery plan purchases are **optional**. Customers may instead purchase a Pinte
 **Changing Selection:**  
 - Changes must be made by **11:59 p.m. EST** the day before billing  
 - If no selection is made, the previous selection or a default will be sent  
-- **Processed or shipped orders cannot be changed or refunded**  
+- **Processed or shipped orders cannot be changed or refunded**
+
+Where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or $0 upfront price (“Promotional Hardware”), legal title to the Promotional Hardware remains with Pinter until the customer has completed all required subscription commitments associated with that Promotion. Promotional Hardware is provided conditionally and is not deemed “free” unless and until the applicable minimum number of deliveries has been successfully billed and fulfilled.
+
+**Cancellations:**
+
+If you wish to cancel a Delivery Plan before completing the required minimum number of deliveries, you must either
+
+- **Within 30 days of initial Delivery Plan order**: Return the Promotional Hardware unused, in perfect working condition, and original packaging to Pinter. If the Promotional Hardware is not returned within the required timeframe, Pinter will automatically charge the Deferred Hardware Charge to the payment method on file, or issue an invoice if that charge is unsuccessful.
+
+- **After 30 days of initial Delivery Plan order:** Pay the applicable Deferred Hardware Charge listed below. 
+
+
+| Promotion | Offer | Commitment | Deferred Hardware Charge |
+|-----------|-------|------------|------------------------|
+| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **$149** |
+| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **$248** |
+
+Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardware transfers to the customer.
 
 ---
 
@@ -95,27 +114,18 @@ Delivery plan purchases are **optional**. Customers may instead purchase a Pinte
 
 - Promotions may include discounts, free items, or referral bonuses  
 - Offers are **non-transferable**, cannot be sold, and cannot be combined unless stated  
-- Offers may be modified or withdrawn at any time  
-- Fraud or misuse may result in cancellation  
+- Offers may be modified or withdrawn at any time
+- We reserve the right to carry out fraud or misuse checks at any time before or after an order is placed
+- Fraud or misuse may result in cancellation and permanent blocking of any further purchases
 
-⚠️ **Household Limitation**  
-**Introductory offers cannot be redeemed more than once per household.**  
-Duplicate orders based on address or payment method may be cancelled and refunded.
+**7.2 Household Limitation**  
+- Introductory offers cannot be redeemed more than once per household
+- Duplicate orders based on address or payment method may be cancelled and refunded
 
----
+**7.3 Deferred Hardware Charges**
 
-**7.2 Promotional Offers**
+A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Delivery Plan commitments are not fulfilled. Payment of this charge transfers ownership of the Promotional Hardware to the customer. Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
 
-| Promotion | Offer | Commitment | Early Cancellation Hardware Charge |
-|-----------|-------|------------|------------------------|
-| **Free Pinter (Rolling Delivery Plan)** | 1 Pinter | Min 2 beer packs + 1 subsequent order (min 2 packs) | **$149** |
-| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **$149** |
-| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **$248** |
-
-**Notes:**  
-- Required commitments can't be reduced by skips  
-- Skips cannot occur back-to-back  
-- After commitment, normal plan rules apply  
 
 ---
 
@@ -130,7 +140,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 **8. REFUNDS AND RETURNS**
 
-**8.1 Delivery Plan Orders**
+**8.1 Pinter Orders**
 
 - **Before shipment:** Full refund  
 - **Within 30 days (unused):** Return Pinter + Packs unopened for refund  
@@ -148,10 +158,7 @@ Duplicate orders based on address or payment method may be cancelled and refunde
 
 **8.3 Warranty**
 
-- **12-month warranty** (manufacturing defects only)  
-- Excludes misuse or accidental damage  
-- Register via shipment email  
-- Claims: email hello@pinter.com with photos  
+- Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
 
 ---
 
