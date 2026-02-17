@@ -1,4 +1,4 @@
-I'm# RETURN POLICY
+# RETURN POLICY
 
 We want you to love your Pinter experience. If you're not satisfied, here's how returns work:
 
