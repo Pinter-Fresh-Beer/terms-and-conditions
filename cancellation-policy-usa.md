@@ -41,8 +41,8 @@ Your minimum commitment is presented when selecting your Pinter deal, and confir
 
 | Promotional Offer                 | Hardware Charge |
 | --------------------------------- | --------------- |
-| Free Pinter                       | $149            |
-| Free Pinter + Co-Pinter           | $248            |
+| Free Pinter                       | $199            |
+| Free Pinter + Co-Pinter           | $348            |
 
 
 ---

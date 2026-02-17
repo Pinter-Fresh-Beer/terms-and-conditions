@@ -16,8 +16,8 @@ If you received your Pinter through a promotional offer (free Pinter, free Co-Pi
 
 | Promotional Offer | Hardware Charge |
 |-------------------|------------------------|
-| Free Pinter | $149 |
-| Free Pinter + Co-Pinter | $248 |
+| Free Pinter | $199 |
+| Free Pinter + Co-Pinter | $348 |
 
 A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Delivery Plan commitments are not fulfilled. Payment of this charge transfers ownership of the Promotional Hardware to the customer. Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
 

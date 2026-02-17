@@ -101,8 +101,8 @@ If you wish to cancel a Delivery Plan before completing the required minimum num
 
 | Promotion | Offer | Commitment | Deferred Hardware Charge |
 |-----------|-------|------------|------------------------|
-| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **$149** |
-| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **$248** |
+| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **$199** |
+| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **$348** |
 
 Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardware transfers to the customer.
 
