@@ -1,0 +1,1 @@
+I understand I am applying to finance my Master Bundle via Affirm today for as low as $35/mo at 0% APR (Total: $840 + taxes), which includes the hardware, deliveries (min. 2 beers/order), and 26 prepaid beers valid for 24 months. This bundle is non-refundable after 30 days, but comes fully backed by our risk free 30-day return guarantee.
