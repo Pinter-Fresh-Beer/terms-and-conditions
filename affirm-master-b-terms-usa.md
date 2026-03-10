@@ -1,0 +1,1 @@
+I agree to finance my Master Bundle via Affirm for $49/mo at 0% APR (Total: $1,176). This includes all hardware, shipping, and a 24-month auto-delivery plan for 26 total beers. I understand this agreement is non-refundable after 30 days, but is completely protected by the 30-day risk-free return guarantee.
