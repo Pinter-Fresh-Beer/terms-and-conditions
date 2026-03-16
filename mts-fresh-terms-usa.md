@@ -1,1 +1,0 @@
-I understand I am enrolling in an auto-delivery plan for a minimum of 7 deliveries (min. 2 beers + shipping per order). My free Pinter requires fulfilling this agreement; early cancellation incurs the $199 hardware cost. I understand this commitment is completely protected by the 30-day risk-free return guarantee.

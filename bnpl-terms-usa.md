@@ -25,7 +25,7 @@ We know legal documents are tedious. Here is a clear, simple breakdown of how ou
 
 - **Pinter Only (Pay As You Go):** You are buying the standalone machine outright for $199. You own the hardware immediately and can purchase fresh Beer Packs at your own pace.
 
-*(The formal legal terms follow below, which govern your use of the website and purchases from Pinter USA Group Inc.)*
+_(The formal legal terms follow below, which govern your use of the website and purchases from Pinter USA Group Inc.)_
 
 ---
 
@@ -46,6 +46,7 @@ For the purposes of these Terms:
 **2. ABOUT US**
 
 **Pinter USA Group Inc.**
+
 - **Registered Address:** 8 The Green, Suite R, Dover, Kent County, Delaware 19901
 - **Email:** hello@pinter.com
 
@@ -151,7 +152,7 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 
 **9.2 Warranties & Care Plans**
 
-- **Standard Warranty:** Standard Pinter purchases and the Fresh Brewer plan are supplied with a standard manufacturer's warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/warranty
+- **Standard Warranty:** Standard Pinter purchases and the Fresh Brewer plan are supplied with a standard manufacturer's warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/master-brewer-pinter-care-plan
 - **2-Year Care Plan:** The Master Brewer plan includes an upgraded 2-Year Care Plan providing premium support and protection.
 
 ---
@@ -192,4 +193,4 @@ Pinter is not liable for indirect or consequential damages. Not responsible for 
 
 ---
 
-*© 2026 Pinter USA Group Inc. All rights reserved.*
+_© 2026 Pinter USA Group Inc. All rights reserved._
