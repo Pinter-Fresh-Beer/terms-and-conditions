@@ -109,9 +109,11 @@ Our website includes links to other third-party websites and social media platfo
 
 **8. How long we keep your data**
 
-We will retain your Personal Data for as long as is necessary to provide you with our services and for a reasonable period thereafter to enable us to meet our contractual and legal obligations and to deal with complaints and claims.
+Notwithstanding any requests for deletion, we are legally required by UK tax law (HMRC VAT Notice 700/21) to retain basic records of all commercial transactions (including customer name, billing address, and order details) for a minimum of 6 years from the end of the last financial year in which a transaction occurred.
 
-At the end of the retention period, your Personal Data will be securely deleted or anonymised, for example by aggregation with other data, so that it can be used in a non-identifiable way for statistical analysis and business planning.
+Additionally, we retain this data for the purposes of fraud prevention and the establishment, exercise, or defense of legal claims under the Limitation Act 1980. During this period, your data will be securely archived and restricted from active processing or marketing use.
+
+End of Retention - If requested, at the end of the retention period, your Personal Data will be securely deleted or anonymised, for example by aggregation with other data, so that it can be used in a non-identifiable way for statistical analysis and business planning.
 
 **9. How we protect your data**
 
@@ -147,6 +149,17 @@ There are certain fundamental rights that you have in respect of your Personal D
 **11. Exercising your data protection rights**
 
 You will not have to pay a fee to access your Personal Data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
+
+Important note on right to erasure - Please note that this right is not absolute. We will decline your request to delete specific transaction data where we have a legal obligation to retain it (e.g. for HMRC tax records) or where it is necessary for the prevention of fraud. In such cases, we will delete your marketing data but will securely retain your transaction history for the statutory 6-year period.
+
+> **Account Deletion via Mobile App**
+
+If you choose to delete your account through our mobile application, we will:
+
+- Delete your login credentials and authentication tokens.
+- Suppress your email from all marketing communications.
+
+However, please be aware that historical order records and associated address data will be retained as bove in our secure archives for the statutory 6-year period mentioned above to comply with tax and anti-fraud laws. 
 
 **12. Contact us**
 
@@ -221,6 +234,6 @@ For questions about this Appendix or your rights, contact: **privacy@pinter.co.u
 ---
 
 **Version:** v5.0  
-**Last Updated:** 12th June 2025  
+**Last Updated:** 29th January 2026
 **Classification:** PUBLIC USE  
 **Status:** UNCONTROLLED WHEN PRINTED
