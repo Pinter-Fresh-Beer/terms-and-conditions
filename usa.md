@@ -1,6 +1,6 @@
 **PINTER USA GROUP INC.** **TERMS AND CONDITIONS**
 
-**Last Updated:** March 16th 2026
+**Last Updated:** March 19th 2026
 
 ---
 
@@ -17,7 +17,7 @@ We know legal documents are tedious. Here is a clear, simple breakdown of how ou
 - **1-Hour 1-Click Cancellation:** You are in complete control. You have a full hour immediately after checkout to cancel your order with a single click directly from your Order Confirmation page before it goes to our warehouse.
 - **The 30-Day Guarantee:** No matter which plan you choose, you have 30 days to try the Pinter risk-free. If it is not for you, simply log into your Pinter account (or email our support team if you checked out as a guest) to kick off a return. Send the hardware back in clean and good condition within 30 days, and we will completely cancel your delivery plan or financing agreement.
 - **Pay-Per-Delivery Plans:** If your plan included $0 upfront hardware, it was provided on the condition that you complete a minimum number of future beer deliveries (as outlined at your checkout). If you need to cancel before hitting that minimum, no problem. You simply pay the one-time Deferred Hardware Charge (either $199 or $349, depending on the hardware you received) to buy out the machine you kept.
-- **Financed Pre-Paid Plans (e.g., via Affirm):** If you financed a bundle of hardware and pre-paid Beer Packs upfront, your agreement with Affirm becomes final after the 30-day return window. However, you have a full 2 years from purchase to schedule the delivery of your pre-paid Beer Packs.
+- **Financed Pre-Paid Plans (e.g., via Affirm):** If you financed a bundle of hardware and pre-paid Beer Packs upfront, you have a full 2 years from purchase to schedule the delivery of your pre-paid Beer Packs. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance.
 - **Standalone Hardware (Pay As You Go):** If you purchased the machine outright with no delivery commitments, you own the hardware immediately and can purchase fresh Beer Packs at your own pace.
 
 ---
@@ -89,7 +89,7 @@ Under this plan structure, you are purchasing the hardware, upgraded support (if
 - **Billing:** You will be billed by the financing provider (e.g., Affirm) according to the terms of your specific loan agreement.
 - **Deliveries:** Your initial Pinter Packs ship immediately. You control the delivery schedule for your remaining pre-paid packs via your Pinter account.
 - **Cancellation (First 30 Days):** Log into your Pinter account portal to initiate a return within 30 days to cancel your financing loan.
-- **Cancellation (After 30 Days):** Your financing agreement becomes final and non-refundable. However, your pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase, allowing you to easily pause or space out your deliveries as needed during that time.
+- **Total Flexibility Transition (After 30 Days):** If your lifestyle changes after 30 days, you can easily transition to owning your gear outright. By contacting our support team, we will calculate the retail value of the hardware you are keeping and the Pinter Packs you have already consumed. We will then instantly clear and cancel your remaining Affirm balance, so you only pay for exactly what you've used. Your unredeemed pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase.
 
 **6.3 Standalone Hardware (Pay-As-You-Go)**
 
