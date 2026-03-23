@@ -17,7 +17,7 @@ We know legal documents are tedious. Here is a clear, simple breakdown of how ou
 - **1-Hour 1-Click Cancellation:** You are in complete control. You have a full hour immediately after checkout to cancel your order with a single click directly from your Order Confirmation page before it goes to our warehouse.
 - **The 30-Day Guarantee:** No matter which plan you choose, you have 30 days to try the Pinter risk-free. If it is not for you, simply log into your Pinter account (or email our support team if you checked out as a guest) to kick off a return. Send the hardware back in clean and good condition within 30 days, and we will completely cancel your delivery plan or financing agreement.
 - **Pay-Per-Delivery Plans:** If your plan included $0 upfront hardware, it was provided on the condition that you complete a minimum number of future beer deliveries (as outlined at your checkout). If you need to cancel before hitting that minimum, no problem. You simply pay the one-time Deferred Hardware Charge (either $199 or $349, depending on the hardware you received) to buy out the machine you kept.
-- **Financed Pre-Paid Plans (e.g., via Affirm):** If you financed a bundle of hardware and pre-paid Beer Packs upfront, you have a full 2 years from purchase to schedule the delivery of your pre-paid Beer Packs. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance.
+- **Financed Pre-Paid Plans (e.g., Taproom VIP Pass via Affirm):** If you financed a bundle of hardware and pre-paid Beer Packs upfront, you have a full 2 years from purchase to schedule the delivery of your pre-paid Beer Packs. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance.
 - **Standalone Hardware (Pay As You Go):** If you purchased the machine outright with no delivery commitments, you own the hardware immediately and can purchase fresh Beer Packs at your own pace.
 
 ---
@@ -140,7 +140,7 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 **9.2 Warranties & Care Plans**
 
 - **Standard Warranty:** Standard Pinter purchases and Pay-Per-Delivery plans are supplied with a standard manufacturer’s warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/warranty
-- **Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans) may include an upgraded 2-Year Care Plan. If your order confirmation includes a Care Plan, full details and coverage are available at: [Insert Link to 2-Year Care Plan Details]
+- **Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans) may include an upgraded 2-Year Care Plan. If your order confirmation includes a Care Plan, full details and coverage are available at: https://pinter.com/pages/pinter-care-plan
 
 ---
 
