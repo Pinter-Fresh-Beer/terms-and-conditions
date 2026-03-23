@@ -89,7 +89,7 @@ Under this plan structure, you are purchasing the hardware, upgraded support (if
 - **Billing:** You will be billed by the financing provider (e.g., Affirm) according to the terms of your specific loan agreement.
 - **Deliveries:** Your initial Pinter Packs ship immediately. You control the delivery schedule for your remaining pre-paid packs via your Pinter account.
 - **Cancellation (First 30 Days):** Log into your Pinter account portal to initiate a return within 30 days to cancel your financing loan.
-- **Total Flexibility Transition (After 30 Days):** If your lifestyle changes after 30 days, you can easily transition to owning your gear outright. By contacting our support team, we will calculate the retail value of the hardware you are keeping and the Pinter Packs you have already consumed. We will then instantly clear and cancel your remaining Affirm balance, so you only pay for exactly what you've used. Your unredeemed pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase.
+- **Total Flexibility Transition (After 30 Days):** If your lifestyle changes after 30 days, you can easily transition to owning your gear outright. By contacting our support team, we will calculate the retail value of the hardware you are keeping and the Pinter Packs you have already consumed. We will then instantly clear and cancel your remaining Affirm balance, so you only pay for exactly what you've used. Unredeemed pre-paid Pinter Packs are valid for the duration of your plan length from the date of purchase.
 
 **6.3 Standalone Hardware (Pay-As-You-Go)**
 
