@@ -1,6 +1,6 @@
 **PINTER USA GROUP INC.** **TERMS AND CONDITIONS**
 
-**Last Updated:** March 19, 2026
+**Last Updated:** March 23, 2026
 
 ---
 
@@ -18,13 +18,13 @@ We know legal documents are tedious. Here is a clear, simple breakdown of how ou
 
 - **The 30-Day Guarantee:** No matter which plan you choose, you have 30 days to try the Pinter risk-free. If it is not for you, simply log into your Pinter account (or email our support team if you checked out as a guest) to kick off a return. Send the hardware back in clean and good condition within 30 days, and we will completely cancel your delivery plan or Affirm agreement.
 
-- **Master Brewer (Affirm):** You are purchasing the hardware and 26 total Beer Packs upfront using 0% APR financing through Affirm. This plan includes an upgraded 2-Year Care Plan instead of the standard warranty. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance. Your unredeemed pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase.
+- **Taproom VIP Pass (Affirm):** You are purchasing the hardware and 14 total premium Beer Packs upfront using 0% APR financing through Affirm. This plan includes an upgraded 2-Year VIP Care Plan instead of the standard warranty. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance. Your unredeemed pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase.
 
 - **Fresh Brewer (Pay Per Delivery):** We give you the $199 Pinter machine for $0 upfront, on the condition that you complete a minimum of 6 future deliveries (at least 12 Beer Packs total). If you need to cancel your plan before hitting that minimum, no problem. You simply pay a one-time Deferred Hardware Charge of $199 to buy out the machine you kept.
 
 - **Pinter Only (Pay As You Go):** You are buying the standalone machine outright for $199. You own the hardware immediately and can purchase fresh Beer Packs at your own pace.
 
-_(The formal legal terms follow below, which govern your use of the website and purchases from Pinter USA Group Inc.)_
+*(The formal legal terms follow below, which govern your use of the website and purchases from Pinter USA Group Inc.)*
 
 ---
 
@@ -83,9 +83,9 @@ Once this 1-hour window passes, your order is automatically routed to our wareho
 
 Your obligations, ownership of the hardware, and cancellation rights depend entirely on the specific plan you select at checkout.
 
-**6.1 The Master Brewer Plan (Affirm Financing)**
+**6.1 The Taproom VIP Pass (Affirm Financing)**
 
-When you select the Master Brewer plan, you are purchasing the Pinter, a Co-Pinter, a 2-Year Care Plan, and 26 total Pinter Packs via a third-party financing agreement.
+When you select the Taproom VIP Pass, you are purchasing the Pinter, a Co-Pinter, a 2-Year VIP Care Plan, and 14 total premium Pinter Packs via a third-party financing agreement.
 
 - **Billing:** You will be billed by Affirm according to the terms of your specific loan agreement.
 - **Deliveries:** Your initial Pinter Packs ship immediately. You control the delivery schedule for your remaining pre-paid packs via your Pinter account.
@@ -151,8 +151,8 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 
 **9.2 Warranties & Care Plans**
 
-- **Standard Warranty:** Standard Pinter purchases and the Fresh Brewer plan are supplied with a standard manufacturer's warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/master-brewer-pinter-care-plan
-- **2-Year Care Plan:** The Master Brewer plan includes an upgraded 2-Year Care Plan providing premium support and protection.
+- **Standard Warranty:** Standard Pinter purchases and the Fresh Brewer plan are supplied with a standard manufacturer's warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/pinter-care-plan
+- **2-Year Care Plan:** The Taproom VIP Pass includes an upgraded 2-Year VIP Care Plan providing premium support and protection.
 
 ---
 
@@ -192,4 +192,4 @@ Pinter is not liable for indirect or consequential damages. Not responsible for 
 
 ---
 
-_© 2026 Pinter USA Group Inc. All rights reserved._
+*© 2026 Pinter USA Group Inc. All rights reserved.*
