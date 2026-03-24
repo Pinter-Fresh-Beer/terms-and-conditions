@@ -127,6 +127,13 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 - Payment of this charge transfers ownership of the Promotional Hardware to the customer. 
 - Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
 
+**8.4 Wallet and Bonus Credits.** 
+
+- Wallet and Bonus Credits Pinter Wallet balances are consumed on a cash-first basis.
+- Promotional Bonus Credits have $0.00 cash value.
+- Refunds are strictly limited to the unspent portion of the user's original cash deposit.
+- Upon issuing a refund, all associated Promotional Bonus Credits are immediately voided.
+
 ---
 
 **9. REFUNDS, WARRANTIES, AND CARE PLANS**
