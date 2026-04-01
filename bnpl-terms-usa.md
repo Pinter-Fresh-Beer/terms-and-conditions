@@ -1,6 +1,6 @@
 **PINTER USA GROUP INC.** **TERMS AND CONDITIONS**
 
-**Last Updated:** March 23, 2026
+**Last Updated:** March 19th 2026
 
 ---
 
@@ -15,16 +15,10 @@ By accessing or using our Site or purchasing any products or services, you agree
 We know legal documents are tedious. Here is a clear, simple breakdown of how our plans and policies work:
 
 - **1-Hour 1-Click Cancellation:** You are in complete control. You have a full hour immediately after checkout to cancel your order with a single click directly from your Order Confirmation page before it goes to our warehouse.
-
-- **The 30-Day Guarantee:** No matter which plan you choose, you have 30 days to try the Pinter risk-free. If it is not for you, simply log into your Pinter account (or email our support team if you checked out as a guest) to kick off a return. Send the hardware back in clean and good condition within 30 days, and we will completely cancel your delivery plan or Affirm agreement.
-
-- **Taproom VIP Pass (Affirm):** You are purchasing the hardware and 14 total Beer Packs (including premium styles) upfront using 0% APR financing through Affirm. This plan includes an upgraded 2-Year VIP Care Plan instead of the standard warranty. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance. Your unredeemed pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase.
-
-- **Fresh Brewer (Pay Per Delivery):** We give you the $199 Pinter machine for $0 upfront, on the condition that you complete a minimum of 6 future deliveries (at least 12 Beer Packs total). If you need to cancel your plan before hitting that minimum, no problem. You simply pay a one-time Deferred Hardware Charge of $199 to buy out the machine you kept.
-
-- **Pinter Only (Pay As You Go):** You are buying the standalone machine outright for $199. You own the hardware immediately and can purchase fresh Beer Packs at your own pace.
-
-*(The formal legal terms follow below, which govern your use of the website and purchases from Pinter USA Group Inc.)*
+- **The 30-Day Guarantee:** No matter which plan you choose, you have 30 days to try the Pinter risk-free. If it is not for you, simply log into your Pinter account (or email our support team if you checked out as a guest) to kick off a return. Send the hardware back in clean and good condition within 30 days, and we will completely cancel your delivery plan or financing agreement.
+- **Pay-Per-Delivery Plans:** If your plan included $0 upfront hardware, it was provided on the condition that you complete a minimum number of future beer deliveries (as outlined at your checkout). If you need to cancel before hitting that minimum, no problem. You simply pay the one-time Deferred Hardware Charge (either $199 or $349, depending on the hardware you received) to buy out the machine you kept.
+- **Financed Pre-Paid Plans (e.g., Taproom VIP Pass via Affirm):** If you financed a bundle of hardware and pre-paid Beer Packs upfront, you have a full 2 years from purchase to schedule the delivery of your pre-paid Beer Packs. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance.
+- **Standalone Hardware (Pay As You Go):** If you purchased the machine outright with no delivery commitments, you own the hardware immediately and can purchase fresh Beer Packs at your own pace.
 
 ---
 
@@ -32,11 +26,11 @@ We know legal documents are tedious. Here is a clear, simple breakdown of how ou
 
 For the purposes of these Terms:
 
-- **"Pinter"** means the Pinter machine or system provided by Pinter USA Group Inc.
-- **"Co-Pinter"** means the companion device or accessory to the Pinter.
-- **"Pinter Pack"** / **"Beer Pack"** / **"Fresh Press"** means a pack of ingredients intended for use with a Pinter machine.
-- **"Delivery Plan"** means recurring orders of Beer Packs shipped automatically on a flexible schedule controlled by the customer.
-- **"Household"** means all individuals sharing the same delivery or payment address.
+- **"Pinter"** means the Pinter machine or system provided by Pinter USA Group Inc.  
+- **"Co-Pinter"** means the companion device or accessory to the Pinter.  
+- **"Pinter Pack" / "Beer Pack" / "Fresh Press"** means a pack of ingredients intended for use with a Pinter machine.  
+- **"Delivery Plan"** means recurring orders of Beer Packs shipped automatically on a flexible schedule controlled by the customer.  
+- **"Household"** means all individuals sharing the same delivery or payment address.  
 - **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.
 - **"Promotional Hardware"** means where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or $0 upfront price.
 
@@ -44,10 +38,8 @@ For the purposes of these Terms:
 
 **2. ABOUT US**
 
-**Pinter USA Group Inc.**
-
-- **Registered Address:** 8 The Green, Suite R, Dover, Kent County, Delaware 19901
-- **Email:** hello@pinter.com
+**Pinter USA Group Inc.** - **Registered Address:** 8 The Green, Suite R, Dover, Kent County, Delaware 19901  
+- **Email:** hello@pinter.com  
 
 This website is owned and operated by Pinter. When you place an order, your contract of sale is with Pinter.
 
@@ -57,8 +49,8 @@ This website is owned and operated by Pinter. When you place an order, your cont
 
 To shop with us, you must:
 
-- Be at least **21 years old** (or of legal drinking age in your state)
-- Have a valid credit or debit card and be authorized to use it
+- Be at least **21 years old** (or of legal drinking age in your state)  
+- Have a valid credit or debit card and be authorized to use it  
 
 > **Note:** Pinter ingredient packs are non-alcoholic until brewed. You are responsible for complying with all applicable alcohol laws in your jurisdiction.
 
@@ -66,42 +58,40 @@ To shop with us, you must:
 
 **4. PURCHASING AND PAYMENT**
 
-- **Accepted payment methods:** Visa, Mastercard, American Express, Apple Pay, Google Pay, and Affirm
-- Orders are processed once payment is received
+- **Accepted payment methods:** Visa, Mastercard, American Express, Apple Pay, Google Pay, and Affirm.  
+- Orders are processed once payment is received.  
 
 ---
 
-**5. 1-HOUR 1-CLICK CANCELLATION**
+**5. ORDER CANCELLATION & THE 1-HOUR WINDOW**
 
-After placing an order for Pinter hardware, you have a 1-hour window to easily cancel it with one click directly from your Order Confirmation page.
-
-Once this 1-hour window passes, your order is automatically routed to our warehouse for immediate fulfillment and cannot be stopped. If you miss this window, you are still **fully protected by our 30-Day Return Policy** once the item arrives.
+After placing an order for Pinter hardware, you have a 1-hour window to easily cancel it with one click directly from your Order Confirmation page. Once this 1-hour window passes, your order is automatically routed to our warehouse for immediate fulfillment and cannot be stopped. If you miss this window, you are fully protected by our 30-Day Return Policy once the item arrives.
 
 ---
 
 **6. THE PLANS & POST-DELIVERY CANCELLATION**
 
-Your obligations, ownership of the hardware, and cancellation rights depend entirely on the specific plan you select at checkout.
+Pinter offers varying promotional structures. Your obligations, ownership of the hardware, and cancellation rights depend entirely on the specific billing structure you selected at checkout. Please refer to your order confirmation email to verify which of the following structures applies to your purchase.
 
-**6.1 The Taproom VIP Pass (Affirm Financing)**
+**6.1 Pay-Per-Delivery Plans**
 
-When you select the Taproom VIP Pass, you are purchasing the Pinter, a Co-Pinter, a 2-Year VIP Care Plan, and 14 total Pinter Packs via a third-party financing agreement.
+Under these plans, you receive Promotional Hardware for $0 upfront in exchange for an agreement to purchase a minimum amount of future Pinter Packs. Legal title to the Promotional Hardware remains with Pinter until your agreement is fulfilled.
 
-- **Billing:** You will be billed by Affirm according to the terms of your specific loan agreement.
-- **Deliveries:** Your initial Pinter Packs ship immediately. You control the delivery schedule for your remaining pre-paid packs via your Pinter account.
-- **Cancellation (First 30 Days):** Log into your Pinter account portal to initiate a return within 30 days to cancel your Affirm loan.
-- **Total Flexibility Transition (After 30 Days):** If your lifestyle changes after 30 days, you can easily transition to owning your gear outright. By contacting our support team, we will calculate the retail value of the hardware you are keeping and the Pinter Packs you have already consumed. We will then instantly clear and cancel your remaining Affirm balance, so you only pay for exactly what you've used. Your unredeemed pre-paid Pinter Packs are valid for a full 2 years (24 months) from the date of purchase, allowing you to easily pause or space out your deliveries as needed during that time.
-
-**6.2 The Fresh Brewer Plan (Pay Per Delivery)**
-
-When you select the Fresh Brewer plan, you receive Promotional Hardware for $0 upfront in exchange for an agreement to purchase a minimum amount of future Pinter Packs. Legal title to the Promotional Hardware remains with Pinter until your agreement is fulfilled.
-
-- **The Commitment:** You agree to pay for a minimum of 6 subsequent deliveries (at least 2 Pinter Packs per delivery) after your initial order.
+- **The Commitment:** You agree to pay for the minimum number of subsequent deliveries specified during your checkout and in your order confirmation.
 - **Cancellation (First 30 Days):** Log into your Pinter account portal to initiate a return within 30 days to cancel your plan with zero penalties.
-- **Early Cancellation (After 30 Days):** If you wish to cancel your Delivery Plan before completing your 6-delivery minimum, you may do so by paying a **$199 Deferred Hardware Charge** (see Section 8.3). Payment of this charge buys out your contract and transfers full ownership of the hardware to you.
+- **Early Cancellation (After 30 Days):** If you wish to cancel your Delivery Plan before completing your required minimum deliveries, you may do so by paying the applicable Deferred Hardware Charge (see Section 8.3). Payment of this charge buys out your contract and transfers full ownership of the hardware to you.
 - **Standard Cancellation:** Once you have completed your minimum deliveries, you own the hardware outright and may pause or cancel future deliveries at any time via your account with no fees.
 
-**6.3 Pinter Only (Standalone Hardware)**
+**6.2 Financed Pre-Paid Plans (e.g., Affirm Financing)**
+
+Under this plan structure, you are purchasing the hardware, upgraded support (if applicable), and a pre-paid allocation of Pinter Packs via a third-party financing agreement.
+
+- **Billing:** You will be billed by the financing provider (e.g., Affirm) according to the terms of your specific loan agreement.
+- **Deliveries:** Your initial Pinter Packs ship immediately. You control the delivery schedule for your remaining pre-paid packs via your Pinter account.
+- **Cancellation (First 30 Days):** Log into your Pinter account portal to initiate a return within 30 days to cancel your financing loan.
+- **Total Flexibility Transition (After 30 Days):** If your lifestyle changes after 30 days, you can easily transition to owning your gear outright. By contacting our support team, we will calculate the retail value of the hardware you are keeping and the Pinter Packs you have already consumed. We will then instantly clear and cancel your remaining Affirm balance, so you only pay for exactly what you've used. Unredeemed pre-paid Pinter Packs are valid for the duration of your plan length from the date of purchase.
+
+**6.3 Standalone Hardware (Pay-As-You-Go)**
 
 When you purchase the standalone Pinter without a Delivery Plan, you own the hardware immediately. You can order fresh Pinter Packs whenever you choose directly from our store at your own pace. There are no delivery commitments or cancellation fees.
 
@@ -109,35 +99,40 @@ When you purchase the standalone Pinter without a Delivery Plan, you own the har
 
 **7. SHIPPING & DELIVERY**
 
-- Estimated delivery times will appear in your confirmation email
-- **We do not ship to:** PO Boxes, Alaska, Hawaii, Puerto Rico or military addresses
-- Changes to Delivery Plan shipping dates must be made by **11:59 p.m. EST** the day before your next scheduled billing date
-- Processed or shipped Pinter Packs cannot be changed or refunded (Your initial hardware order is still fully covered by the 30-Day Guarantee)
+- Estimated delivery times will appear in your confirmation email.  
+- **We do not ship to:** PO Boxes, Alaska, Hawaii, Puerto Rico or military addresses.  
+- Changes to Delivery Plan shipping dates must be made by **11:59 p.m. EST** the day before your next scheduled billing date.  
+- **Processed or shipped orders cannot be changed or refunded.**
 
 ---
 
-**8. PROMOTIONS, REFERRALS, AND HARDWARE CHARGES**
+**8. PROMOTIONS AND REFERRALS**
 
 **8.1 General Rules**
 
-- Promotions may include discounts, free items, or referral bonuses
-- Offers are **non-transferable**, cannot be sold, and cannot be combined unless stated
-- Offers may be modified or withdrawn at any time
-- We reserve the right to carry out fraud or misuse checks at any time before or after an order is placed
-- Fraud or misuse may result in cancellation and permanent blocking of any further purchases
+- Promotions may include discounts, free items, or referral bonuses.  
+- Offers are **non-transferable**, cannot be sold, and cannot be combined unless stated.  
+- Offers may be modified or withdrawn at any time.
+- We reserve the right to carry out fraud or misuse checks at any time before or after an order is placed.
+- Fraud or misuse may result in cancellation and permanent blocking of any further purchases.
 
-**8.2 Household Limitation**
+**8.2 Household Limitation** - Introductory offers cannot be redeemed more than once per household.
+- Duplicate orders based on address or payment method may be cancelled and refunded.
 
-- Introductory offers cannot be redeemed more than once per household
-- Duplicate orders based on address or payment method may be cancelled and refunded
+**8.3 Deferred Hardware Charges**
 
-**8.3 Deferred Hardware Charges (Fresh Brewer Plan)**
+A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Pay-Per-Delivery Plan commitments are not fulfilled. 
+- **Free Pinter:** If your plan includes a free Pinter, the Deferred Hardware Charge is **$199**.
+- **Free Pinter + Co-Pinter:** If your plan includes a free Pinter and a free Co-Pinter, the Deferred Hardware Charge is **$349**.
+- Payment of this charge transfers ownership of the Promotional Hardware to the customer. 
+- Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
 
-A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if the Fresh Brewer Delivery Plan commitments are not fulfilled.
+**8.4 Wallet and Bonus Credits.** 
 
-- **Fresh Brewer Plan Buyout:** If you cancel before completing your 6-delivery commitment, the Deferred Hardware Charge is **$199**
-- Payment of this charge transfers ownership of the Promotional Hardware to you
-- Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title
+- Wallet and Bonus Credits Pinter Wallet balances are consumed on a cash-first basis.
+- Promotional Bonus Credits have $0.00 cash value.
+- Refunds are strictly limited to the unspent portion of the user's original cash deposit.
+- Upon issuing a refund, all associated Promotional Bonus Credits are immediately voided.
 
 ---
 
@@ -145,50 +140,52 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 
 **9.1 General Returns**
 
-- To initiate a return within your 30-day window, log into your Pinter account portal or (if you purchased the Pinter Only plan without an account) contact hello@pinter.com
-- Items must be returned in clean, good working condition in their original packaging
-- You must ship the return within 14 days of authorization
+- To initiate a return within your 30-day window, log into your Pinter account portal or (if you purchased the Standalone Hardware plan without an account) contact hello@pinter.com. 
+- Items must be returned in clean, good working condition in their original packaging.
+- You must ship the return within **14 days** of authorization.
 
 **9.2 Warranties & Care Plans**
 
-- **Standard Warranty:** Standard Pinter purchases and the Fresh Brewer plan are supplied with a standard manufacturer's warranty. 
-- **2-Year Care Plan:** The Taproom VIP Pass includes an upgraded 2-Year Care Plan providing extra support and protection. Full details, coverage, and exclusions are available at: https://pinter.com/pages/pinter-care-plan
+- **Standard Warranty:** Standard Pinter purchases and Pay-Per-Delivery plans are supplied with a standard manufacturer’s warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/warranty
+- **Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans) may include an upgraded 2-Year Care Plan. If your order confirmation includes a Care Plan, full details and coverage are available at: https://pinter.com/pages/pinter-care-plan
 
 ---
 
 **10. PRIVACY & DATA USE**
 
-Your data is governed by our Privacy Policy. You may unsubscribe from marketing emails at any time.
+- Governed by our Privacy Policy.  
+- You may unsubscribe from marketing emails at any time.  
 
 ---
 
 **11. LIMITATION OF LIABILITY AND FORCE MAJEURE**
 
-Pinter is not liable for indirect or consequential damages. Not responsible for delays caused by external events (strikes, disasters, carrier issues).
+- Pinter is not liable for indirect or consequential damages.  
+- Not responsible for delays caused by external events (strikes, disasters, carrier issues).  
 
 ---
 
 **12. DISPUTE RESOLUTION AND GOVERNING LAW**
 
-- Binding arbitration under FAA
-- No class actions
-- Arbitration decisions are final
-- Governed by U.S. and Delaware law
+- Binding arbitration under FAA.  
+- No class actions.  
+- Arbitration decisions are final.  
+- Governed by U.S. and Delaware law.  
 
 ---
 
 **13. CHANGES TO TERMS**
 
-- Terms may be modified
-- Updated versions posted on the website
-- Continued use implies acceptance
+- Terms may be modified.  
+- Updated versions posted on the website.  
+- Continued use implies acceptance.  
 
 ---
 
 **14. CONTACT US**
 
 **Email:** hello@pinter.com  
-**Webchat:** www.pinter.com
+**Webchat:** www.pinter.com  
 
 ---
 
