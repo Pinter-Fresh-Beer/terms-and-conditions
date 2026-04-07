@@ -1,6 +1,6 @@
 **PINTER USA GROUP INC.** **TERMS AND CONDITIONS**
 
-**Last Updated:** March 19th 2026
+**Last Updated:** March 30, 2026
 
 ---
 
@@ -16,9 +16,9 @@ We know legal documents are tedious. Here is a clear, simple breakdown of how ou
 
 - **1-Hour 1-Click Cancellation:** You are in complete control. You have a full hour immediately after checkout to cancel your order with a single click directly from your Order Confirmation page before it goes to our warehouse.
 - **The 30-Day Guarantee:** No matter which plan you choose, you have 30 days to try the Pinter risk-free. If it is not for you, simply log into your Pinter account (or email our support team if you checked out as a guest) to kick off a return. Send the hardware back in clean and good condition within 30 days, and we will completely cancel your delivery plan or financing agreement.
-- **Pay-Per-Delivery Plans:** If your plan included $0 upfront hardware, it was provided on the condition that you complete a minimum number of future beer deliveries (as outlined at your checkout). If you need to cancel before hitting that minimum, no problem. You simply pay the one-time Deferred Hardware Charge (either $199 or $349, depending on the hardware you received) to buy out the machine you kept.
+- **Minimum Order Delivery Plans:** If your plan included $0 upfront hardware, it was provided on the condition that you complete a binding minimum number of future auto-renewing beer deliveries (as outlined at your checkout). If you need to cancel before hitting that minimum, no problem. You simply pay an amortized Deferred Hardware Charge (which decreases with every successful delivery you make) to buy out your contract and keep the machine.
 - **Financed Pre-Paid Plans (e.g., Taproom VIP Pass via Affirm):** If you financed a bundle of hardware and pre-paid Beer Packs upfront, you have a full 2 years from purchase to schedule the delivery of your pre-paid Beer Packs. If your lifestyle changes after your 30-day trial and you wish to stop your monthly plan early, you can invoke our Total Flexibility Guarantee to transition to owning your gear outright. We calculate the retail value of the hardware and consumed beers, and clear your remaining Affirm balance.
-- **Standalone Hardware (Pay As You Go):** If you purchased the machine outright with no delivery commitments, you own the hardware immediately and can purchase fresh Beer Packs at your own pace.
+- **Standalone Hardware (Pay As You Go):** If you purchased the machine outright without a delivery plan, you own the hardware immediately and can purchase fresh Beer Packs at your own pace.
 
 ---
 
@@ -29,7 +29,8 @@ For the purposes of these Terms:
 - **"Pinter"** means the Pinter machine or system provided by Pinter USA Group Inc.  
 - **"Co-Pinter"** means the companion device or accessory to the Pinter.  
 - **"Pinter Pack" / "Beer Pack" / "Fresh Press"** means a pack of ingredients intended for use with a Pinter machine.  
-- **"Delivery Plan"** means recurring orders of Beer Packs shipped automatically on a flexible schedule controlled by the customer.  
+- **"Delivery Plan"** means an auto-renewing, automatic process for recurring orders of Beer Packs shipped automatically on a flexible schedule controlled by the customer.  
+- **"Minimum Order Delivery Plan"** means a Delivery Plan that includes a legally binding agreement to purchase a minimum number of future Beer Packs (such as the Fresh Brewer 14-beer plan or the Master Brewer 26-beer plan) in exchange for discounted or $0 upfront Promotional Hardware.
 - **"Household"** means all individuals sharing the same delivery or payment address.  
 - **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.
 - **"Promotional Hardware"** means where a Pinter and/or Co-Pinter is provided as part of a Promotion or Delivery Plan at a discounted or $0 upfront price.
@@ -73,14 +74,14 @@ After placing an order for Pinter hardware, you have a 1-hour window to easily c
 
 Pinter offers varying promotional structures. Your obligations, ownership of the hardware, and cancellation rights depend entirely on the specific billing structure you selected at checkout. Please refer to your order confirmation email to verify which of the following structures applies to your purchase.
 
-**6.1 Pay-Per-Delivery Plans**
+**6.1 Minimum Order Delivery Plans**
 
-Under these plans, you receive Promotional Hardware for $0 upfront in exchange for an agreement to purchase a minimum amount of future Pinter Packs. Legal title to the Promotional Hardware remains with Pinter until your agreement is fulfilled.
+Under these plans, you receive Promotional Hardware for $0 upfront in exchange for a binding agreement to purchase a minimum amount of future Pinter Packs. Ownership of the Promotional Hardware transfers to you upon delivery, subject strictly to your binding financial obligation to fulfill the agreement or pay the amortized Deferred Hardware Charge.
 
-- **The Commitment:** You agree to pay for the minimum number of subsequent deliveries specified during your checkout and in your order confirmation.
+- **The Agreement:** You agree to pay for the minimum number of subsequent auto-renewing deliveries specified during your checkout and in your order confirmation.
 - **Cancellation (First 30 Days):** Log into your Pinter account portal to initiate a return within 30 days to cancel your plan with zero penalties.
-- **Early Cancellation (After 30 Days):** If you wish to cancel your Delivery Plan before completing your required minimum deliveries, you may do so by paying the applicable Deferred Hardware Charge (see Section 8.3). Payment of this charge buys out your contract and transfers full ownership of the hardware to you.
-- **Standard Cancellation:** Once you have completed your minimum deliveries, you own the hardware outright and may pause or cancel future deliveries at any time via your account with no fees.
+- **Early Cancellation (After 30 Days):** If you fail to maintain an active payment method, or if you wish to cancel your Delivery Plan before completing your required number of deliveries, your account will enter breach of contract. You may cure this by updating your payment method or paying the applicable Amortized Deferred Hardware Charge (see Section 8.3). Payment of this charge buys out your contract and settles the outstanding balance.
+- **Standard Cancellation:** Once you have completed your minimum deliveries, you may pause or cancel future deliveries at any time via your account with no fees.
 
 **6.2 Financed Pre-Paid Plans (e.g., Affirm Financing)**
 
@@ -93,7 +94,7 @@ Under this plan structure, you are purchasing the hardware, upgraded support (if
 
 **6.3 Standalone Hardware (Pay-As-You-Go)**
 
-When you purchase the standalone Pinter without a Delivery Plan, you own the hardware immediately. You can order fresh Pinter Packs whenever you choose directly from our store at your own pace. There are no delivery commitments or cancellation fees.
+When you purchase the standalone Pinter without a Delivery Plan, you own the hardware immediately. You can order fresh Pinter Packs whenever you choose directly from our store at your own pace. 
 
 ---
 
@@ -119,20 +120,18 @@ When you purchase the standalone Pinter without a Delivery Plan, you own the har
 **8.2 Household Limitation** - Introductory offers cannot be redeemed more than once per household.
 - Duplicate orders based on address or payment method may be cancelled and refunded.
 
-**8.3 Deferred Hardware Charges**
+**8.3 Amortized Deferred Hardware Charges**
 
-A Deferred Hardware Charge represents the retail value of the Promotional Hardware and is payable if promotional Pay-Per-Delivery Plan commitments are not fulfilled. 
-- **Free Pinter:** If your plan includes a free Pinter, the Deferred Hardware Charge is **$199**.
-- **Free Pinter + Co-Pinter:** If your plan includes a free Pinter and a free Co-Pinter, the Deferred Hardware Charge is **$349**.
-- Payment of this charge transfers ownership of the Promotional Hardware to the customer. 
-- Until ownership transfers, Promotional Hardware is provided on a conditional use basis only and does not constitute a sale, gift, or transfer of title.
+A Deferred Hardware Charge represents the agreed retail value of the Promotional Hardware and is a legally enforceable contract buyout fee payable if promotional delivery plan deliveries are not fulfilled. To accurately reflect the value of your ongoing plan, this buyout fee amortizes (decreases) proportionally with each successful qualifying delivery you complete.
 
-**8.4 Wallet and Bonus Credits.** 
+- **Starting Hardware Value:** If your plan includes a free Pinter, the base value is **$199**. If it includes a free Pinter + Co-Pinter, the base value is **$349**.
+- **The Amortization Mechanic:** For every Beer Pack successfully billed and delivered under your Minimum Order Delivery Plan (e.g., out of your required 14 beers for a Fresh Brewer plan or 26 beers for a Master Brewer plan), your buyout fee decreases by an equal, proportional percentage. 
+- Until your entire delivery plan deliveries are fulfilled or the Amortized Deferred Hardware Charge is paid in full, your account remains subject to collections for the outstanding balance of the hardware.
 
-- Wallet and Bonus Credits Pinter Wallet balances are consumed on a cash-first basis.
+**8.4 Wallet and Bonus Credits** - Pinter Wallet balances are consumed on a cash-first basis.
 - Promotional Bonus Credits have $0.00 cash value.
 - Refunds are strictly limited to the unspent portion of the user's original cash deposit.
-- Upon issuing a refund, all associated Promotional Bonus Credits are immediately voided.
+- Upon issuing a refund or terminating an account, all associated Promotional Bonus Credits are immediately voided.
 
 ---
 
@@ -146,7 +145,7 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 
 **9.2 Warranties & Care Plans**
 
-- **Standard Warranty:** Standard Pinter purchases and Pay-Per-Delivery plans are supplied with a standard manufacturer’s warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/warranty
+- **Standard Warranty:** Standard Pinter purchases and Minimum Order Delivery Plans are supplied with a standard manufacturer’s warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/warranty
 - **Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans) may include an upgraded 2-Year Care Plan. If your order confirmation includes a Care Plan, full details and coverage are available at: https://pinter.com/pages/pinter-care-plan
 
 ---
