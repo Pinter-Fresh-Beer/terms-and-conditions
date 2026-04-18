@@ -23,7 +23,7 @@ For the purposes of these Terms:
 - **"Pinter"** means the Pinter machine or system provided by Pinter USA Group Inc.  
 - **"Co-Pinter"** means the companion device or accessory to the Pinter.  
 - **"Pinter Pack" / "Beer Pack" / "Fresh Press"** means a pack of ingredients intended for use with a Pinter machine.  
-- **"Delivery Plan"** means an automatic process for recurring orders of Beer Packs shipped automatically on a flexible schedule controlled by the customer.  
+- **"Delivery Plan"** means an automatic process for recurring orders of Beer Packs shipped on a flexible schedule controlled by the customer.  
 - **"Minimum Order Delivery Plan"** means a Delivery Plan that includes a legally binding agreement to purchase a minimum number of future Beer Packs (such as the Fresh Brewer 14-beer plan or the Master Brewer 26-beer plan) in exchange for discounted or $0 upfront Promotional Hardware.
 - **"Household"** means all individuals sharing the same delivery or payment address.  
 - **"Promotion"** means any special offer, discount, free item, or voucher provided by Pinter.
