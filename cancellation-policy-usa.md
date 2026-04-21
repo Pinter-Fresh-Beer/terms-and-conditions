@@ -2,80 +2,24 @@
 
 ---
 
-## PINTERS PURCHASED ON DELIVERY PLANS WITH PROMOTIONAL OFFERS
-
-### Understanding Your Commitment
-
-When you accept promotional offers on a delivery plan, you're agreeing to receive a minimum number of Pinter Pack orders. This commitment is what allows us to provide you with free or heavily discounted equipment upfront.
-
-Your minimum commitment is presented when selecting your Pinter deal, and confirmed during account signup.
+## 1-HOUR ORDER CANCELLATION
+After placing your order, you have a 1-hour window to cancel it with a single click directly from your Order Confirmation page. Once this window passes, your order is routed to our warehouse and cannot be stopped prior to delivery.
 
 ---
 
-### Cancelling Your Delivery Plan
-
-**Before shipment:**
-
-- Contact webchat for fastest service
-
-**Within 30 days (unused):**
-
-- Return Pinter + Packs unopened for full refund
-- Contact hello@pinter.com or webchat
-
-**If you want to cancel before completing your commitment:**
-
-- You can cancel at any time by contacting us at hello@pinter.com or through webchat
-- A deferred hardware charge will apply (see table below)
-- This charge represents the retail value of the equipment you received for free or at a discount
-- You keep all equipment you've received
-
-**If you cancel after completing your commitment:**
-
-- No hardware charge applies
-- You're free to cancel anytime via your online account, email or webchat with no penalty
+## THE 30-DAY GUARANTEE
+No matter which plan you choose, you have 30 days from delivery to try the Pinter risk-free. If it is not for you, you can start the returns process directly from your account, or contact hello@pinter.com to initiate a return. Send the hardware back in perfect working condition within 30 days, and we will completely cancel your delivery plan with zero penalties.
 
 ---
 
-### Deferred Hardware Charges
+## MINIMUM ORDER DELIVERY PLANS (e.g. Fresh Brewer / Master Brewer)
+If your plan included $0 upfront promotional hardware, it was provided on the condition that you complete a minimum number of future beer deliveries.
 
-| Promotional Offer                 | Hardware Charge |
-| --------------------------------- | --------------- |
-| Free Pinter                       | $199            |
-| Free Pinter + Co-Pinter           | $348            |
-
-
----
-
-### Important Notes
-
-- Skipped deliveries don't count toward your commitment
-- You must complete the full number of orders to fulfill your commitment
-- Contact us anytime at hello@pinter.com with questions
+- **Commitment Progress:** Only successfully billed and shipped deliveries count toward your minimum commitment. Rescheduled deliveries delay your commitment end date but do not reduce the total number of required orders.
+- **Standard Cancellation:** Once you have completed your minimum required deliveries, you may pause or cancel future deliveries at any time via your Pinter account portal with zero charge.
+- **Early Cancellation (After 30 Days):** Ownership of the Promotional Hardware transfers to you immediately upon delivery. However, if you wish to cancel your Delivery Plan before completing your required number of deliveries, you must pay an Amortized Deferred Hardware Charge to settle your outstanding contractual balance. This charge starts at the retail value of the hardware ($199 for Pinter, $348 for Pinter + Co-Pinter) and decreases proportionally with every successful delivery you make. Paying this charge settles your remaining agreement in full.
 
 ---
 
-## PAY-AS-YOU-GO OPTION
-
-Prefer no commitment? You can purchase a Pinter machine outright from $149 with no minimum orders or additional hardware charges.
-
----
-
-## GENERAL RETURNS ON BEERS OR OTHER MERCHANDISE
-
-- Contact hello@pinter.com or webchat within 14 days
-- Items must be unused and in original packaging
-- Must ship returns within 14 days of authorization
-
----
-
-## QUESTIONS?
-
-Contact us anytime:
-
-📧 **Email:** hello@pinter.com  
-💬 **Webchat:** www.pinter.com
-
----
-
-**Note:** This cancellation policy applies to purchases made at www.pinter.com. For full terms, see our Terms and Conditions.
+## MANAGING YOUR DELIVERIES
+You are in complete control of your shipping schedule. Changes to Delivery Plan shipping dates, skipped deliveries, or flavor swaps must be made via your Pinter account portal by **11:59 p.m. EST the day before** your next scheduled billing date.
