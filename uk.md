@@ -183,6 +183,13 @@ A Deferred Hardware Charge represents the retail value of the Promotional Hardwa
 
 Referral codes apply to **new customers only** and cannot be combined with other promotions unless specifically stated.
 
+**8.4 Wallet and Bonus Credits**
+
+Wallet and Bonus Credits Pinter Wallet balances are consumed on a cash-first basis.
+Promotional Bonus Credits have £0.00 cash value.
+Refunds are strictly limited to the unspent portion of the user's original cash deposit.
+Upon issuing a refund, all associated Promotional Bonus Credits are immediately voided.
+
 ---
 
 **9. RETURNS, CANCELLATIONS & REFUNDS**
@@ -221,6 +228,8 @@ You are entitled to:
 **9.4 Warranty**
 
 Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
+
+**9.5 Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans) may include an upgraded 2-Year Care Plan. If your order confirmation includes a Care Plan, full details and coverage are available at: [https://pinter.co.uk/pages/pinter-care-plan](https://pinter.co.uk/pages/complete-care-plan-terms-conditions)
 
 ---
 
