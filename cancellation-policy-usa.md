@@ -7,8 +7,8 @@ After placing your order, you have a 1-hour window to cancel it with a single cl
 
 ---
 
-## THE 30-DAY GUARANTEE
-No matter which plan you choose, you have 30 days from delivery to try the Pinter risk-free. If it is not for you, you can start the returns process directly from your account, or contact hello@pinter.com to initiate a return. Send the hardware back in perfect working condition within 30 days, and we will completely cancel your delivery plan with zero penalties.
+## THE 30-DAY MONEY BACK GUARANTEE
+No matter which plan you choose, every Pinter comes with a 30-Day Money Back Guarantee. If it is not for you, you can start the returns process directly from your account, or contact hello@pinter.com to initiate a return. Send the hardware back in perfect working condition within 30 days, and we will refund your hardware and any unopened Pinter Packs, and completely cancel your delivery plan. *(Note: To ensure ingredient safety, opened Pinter Packs are non-refundable).*
 
 ---
 
@@ -22,12 +22,12 @@ If your plan included $0 upfront promotional hardware, it was provided on the co
 
 - **Commitment Progress:** Only successfully billed and shipped deliveries count toward your minimum commitment. Rescheduled deliveries delay your commitment end date but do not reduce the total number of required orders.
 - **Standard Cancellation:** Once you have completed your minimum required deliveries, you may pause or cancel future deliveries at any time via your Pinter account portal with zero charge.
-- **Early Cancellation (After 30 Days):** Ownership of the Promotional Hardware transfers to you immediately upon delivery. However, if you wish to cancel your Delivery Plan before completing your required number of deliveries, you must pay an Amortized Deferred Hardware Charge to settle your outstanding contractual balance. This charge starts at the retail value of the hardware ($199 for Pinter, $348 for Pinter + Co-Pinter) and decreases proportionally with every successful delivery you make. Paying this charge settles your remaining agreement in full.
+- **Early Cancellation (After 30 Days):** Ownership of the Promotional Hardware transfers to you immediately upon delivery. However, if you wish to cancel your Delivery Plan before completing your required number of deliveries, you must pay an Amortized Hardware Charge to settle your outstanding promotional balance. This charge starts at the retail value of the hardware ($199 for a standard Pinter, $348 for standard Pinter + Co-Pinter) and decreases proportionally with every successful delivery you receive. Paying this charge settles your remaining agreement in full. **Please note:** Special edition Pinters may have a higher MSRP and associated hardware charge. This will be clearly shown to you on the Pinter selection page prior to checkout.
 
 ---
 
 ## MANAGING YOUR DELIVERIES
-You are in complete control of your shipping schedule. Changes to Delivery Plan shipping dates, skipped deliveries, or flavor swaps must be made via your Pinter account portal by **11:59 p.m. EST the day before** your next scheduled billing date.
+You are in complete control of your shipping schedule. Changes to Delivery Plan shipping dates, skipped deliveries, or flavor swaps must be made via your Pinter account portal by **11:59 p.m. Eastern Time (ET) the day before** your next scheduled billing date.
 
 ---
 
