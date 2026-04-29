@@ -1,6 +1,6 @@
 **PINTER UK LTD** **TERMS OF SERVICE**
 
-**Last Updated:** 29th April 2026
+**Last Updated:** [Insert Date]
 
 These Terms and Conditions (“Terms”) apply when you use www.pinter.co.uk (the “Site”) or purchase any products or subscription services from The Greater Good Fresh Brewing Co (“Pinter”, “we”, “us”, “our”).
 
@@ -120,16 +120,16 @@ Unless you have signed up to a promotional offer with a clearly stated minimum t
 
 If you wish to cancel a Delivery Plan *before* completing the required minimum number of deliveries, you must either:
 
-- **Within 30 days of initial Delivery Plan order**: Return the Promotional Hardware unused, in perfect working condition, and original packaging to Pinter. If the Promotional Hardware is not returned within the required timeframe, Pinter will automatically charge the Deferred Hardware Charge to the payment method on file, or issue an invoice if that charge is unsuccessful.
+- **Within 30 days of initial Delivery Plan order**: Return the Promotional Hardware unused, in perfect working condition, and original packaging to Pinter. If the Promotional Hardware is not returned within the required timeframe, Pinter will automatically charge the applicable Amortised Hardware Charge to the payment method on file, or issue an invoice if that charge is unsuccessful.
 
-- **After 30 days of initial Delivery Plan order:** Pay the applicable Deferred Hardware Charge listed below.
+- **After 30 days of initial Delivery Plan order:** Pay the applicable Amortised Hardware Charge listed below. This charge dynamically reduces (amortises) with each successful delivery you receive under your promotional commitment.
 
-| Promotion | Offer | Commitment | Deferred Hardware Charge |
+| Promotion | Offer | Commitment | Max Amortised Hardware Charge (Reduces per delivery) |
 | :--- | :--- | :--- | :--- |
-| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **£99** |
-| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **£168** |
+| **Free Pinter (Fresh Brewer Plan)** | 1 Pinter | Min 2 packs + 6 subsequent orders | **Up to £99** |
+| **Free Pinter + Free Co-Pinter (Master Brewer Plan)** | Pinter + Co-Pinter | Min 2 packs + 12 subsequent orders | **Up to £168** |
 
-Payment of this Deferred Hardware Charge simply settles your remaining promotional balance on the hardware you already own. 
+Payment of this Amortised Hardware Charge simply settles your remaining promotional balance on the hardware you already own. 
 
 You can cancel by:
 
@@ -172,127 +172,6 @@ If you receive a discounted or free device, a minimum subscription commitment ma
 
 After fulfilling the commitment, standard delivery plan rules apply.
 
-**8.3 Deferred Hardware Charges**
+**8.3 Amortised Hardware Charges**
 
-Because you own the Promotional Hardware from day one, the upfront discount you receive is tied to your commitment to purchase a minimum number of Pinter Packs. A Deferred Hardware Charge represents the remaining promotional value of that hardware. This charge becomes payable only if you cancel your Delivery Plan before your promotional commitment is fulfilled. Paying this charge simply settles your outstanding promotional balance, allowing you to drop your recurring orders while keeping the hardware you own.
-
-**8.4 Referral Codes**
-
-Referral codes apply to **new customers only** and cannot be combined with other promotions unless specifically stated.
-
-**8.5 Wallet and Bonus Credits**
-
-Wallet and Bonus Credits Pinter Wallet balances are consumed on a cash-first basis.
-Promotional Bonus Credits have £0.00 cash value.
-Refunds are strictly limited to the unspent portion of the user's original cash deposit.
-Upon issuing a refund, all associated Promotional Bonus Credits are immediately voided.
-
----
-
-**9. RETURNS, CANCELLATIONS & REFUNDS**
-
-> This section summarises your rights under UK consumer law.
-
-**9.1 14-Day Right to Cancel (Consumer Contracts Regulations)**
-
-For most items, you have the right to cancel your order:
-
-- Within **14 days of delivery**;
-- For **any reason**.
-
-To cancel, email **hello@pinter.co.uk**. You must return the goods within 14 days of notifying us. Unless an item is faulty, you are responsible for return postage costs.
-
-**9.2 Condition of Returned Goods**
-
-Returned items must be:
-
-- Unused
-- In their original packaging
-- In resaleable condition.
-
-We may reduce your refund if the item is handled beyond what is reasonable to inspect it.
-
-**9.3 Faulty Goods (Consumer Rights Act 2015)**
-
-You are entitled to:
-
-- A **full refund within 30 days** if the product is faulty.
-- A **repair or replacement** after 30 days.
-- A **final refund or price reduction** if repair/replacement is unsuccessful.
-
-> This does not cover faults resulting from misuse, accidental damage or normal wear and tear.
-
-**9.4 Warranty**
-
-Pinter and Co-Pinter devices are supplied with a manufacturer’s warranty. Full details of the warranty, including coverage, exclusions, and how to make a claim, are available at: https://pinter.com/pages/warranty
-
-**9.5 Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans) may include an upgraded 2-Year Care Plan. If your order confirmation includes a Care Plan, full details and coverage are available at: [https://pinter.co.uk/pages/pinter-care-plan](https://pinter.co.uk/pages/complete-care-plan-terms-conditions)
-
----
-
-**10. PRICES & VOUCHERS**
-
-- All prices include **VAT** where applicable.
-- Only **one discount code** may be used per order.
-- Free gifts have no cash value.
-- If subscription prices change, we will give you **advance notice** before your next billing date, and you may cancel if you do not wish to continue.
-
----
-
-**11. PRIVACY**
-
-- We comply with the **UK GDPR and Data Protection Act 2018**.
-- See our full Privacy Policy on **https://pinter.co.uk/pages/privacy-cookie-policy**
-- You can opt out of marketing emails at any time.
-
----
-
-**12. OUR LIABILITY**
-
-We are responsible for loss or damage that is:
-
-- Caused by our breach of these Terms; and
-- Reasonably foreseeable.
-
-We do not exclude liability for:
-
-- Death or personal injury caused by our negligence;
-- Fraud or fraudulent misrepresentation;
-- Your rights under UK consumer law.
-
-> **Note:** Our products are intended for personal, domestic use. We are not liable for business losses.
-
----
-
-**13. EVENTS OUTSIDE OUR CONTROL**
-
-If an event outside our reasonable control affects our ability to fulfil your order (e.g., severe weather, courier disruption), we will inform you as soon as possible and take reasonable steps to reduce the impact.
-
----
-
-**14. GOVERNING LAW & DISPUTES**
-
-- These Terms are governed by the laws of **England and Wales**.
-- If you are unhappy with how we have handled a complaint, you may use:
-  - An **Alternative Dispute Resolution (ADR) body**; or
-  - The **Online Dispute Resolution platform**.
-- You always retain the right to take the matter to the **UK courts**.
-
----
-
-**15. CHANGES TO THESE TERMS**
-
-- We may update these Terms occasionally.
-- The latest version will always be available on pinter.co.uk.
-- If a change significantly affects your subscription or your rights, we will provide **reasonable advance notice**.
-
----
-
-**16. CONTACT US**
-
-- 📧 **Email:** hello@pinter.co.uk
-- 💬 **Webchat:** Available via pinter.co.uk
-
----
-
-_© 2026 The Greater Good Fresh Brewing Company Ltd. All rights reserved._
+Because you own the Promotional Hardware from day one, the upfront discount you receive is tied to your commitment to purchase a minimum number of Pinter Packs. The Amortised Hardware Charge represents the remaining promotional value of that hardware. **This charge dynamically reduces with each successful delivery you receive.** It becomes payable only if you cancel your Delivery Plan before your promotional commitment is fulfilled
