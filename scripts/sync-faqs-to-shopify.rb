@@ -4,7 +4,6 @@ require 'json'
 require 'net/http'
 require 'psych'
 require 'uri'
-require 'unicode_normalize'
 
 UPSERT_METAOBJECT_MUTATION = <<~GRAPHQL
   mutation UpsertMetaobject($handle: MetaobjectHandleInput!, $metaobject: MetaobjectUpsertInput!) {
@@ -32,8 +31,6 @@ end
 
 def handleize(value)
   value
-    .unicode_normalize(:nfkd)
-    .encode('ASCII', replace: '')
     .downcase
     .gsub(/['’]/, '')
     .gsub(/[^a-z0-9]+/, '-')
