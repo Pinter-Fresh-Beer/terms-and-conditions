@@ -1,6 +1,6 @@
 **PINTER UK LTD** **TERMS OF SERVICE**
 
-**Last Updated:** [Insert Date]
+**Last Updated:** 19 May 2026
 
 These Terms and Conditions (“Terms”) apply when you use www.pinter.co.uk (the “Site”) or purchase any products or subscription services from The Greater Good Fresh Brewing Co (“Pinter”, “we”, “us”, “our”).
 
