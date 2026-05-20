@@ -50,7 +50,7 @@ Upon payment of the Deferred Hardware Charge, ownership of the Promotional Hardw
 - You must ship returns within 14 days of receiving authorization
 
 ### Outside of 30-Day Money Back Guarantee (Delivery Plan Customers) and all Pay-As-You-Go Customers
-- All Pinter Packs are sold as **Final Sale** products. Due to health and safety reasons, we cannot accept returns, exchanges, or issue refunds for these items once processed. This includes all automated subscription renewals.
+- All Pinter Packs are sold as **Final Sale** products. Due to health and safety reasons, we cannot accept returns, exchanges, or issue refunds for these items once processed. This includes all automated delivery plan orders.
 - If your Pinter Pack arrives damaged, faulty or with the wrong item(s), we will absolutely replace it. To initiate a replacement, please contact hello@pinter.com or webchat within 14 days of delivery with 1) your Order Number, 2) the Batch/Lot Number (printed on the pack) and 3) Clear photos of the damage or defect.
 ---
 
