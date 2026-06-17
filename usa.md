@@ -119,43 +119,247 @@ A Deferred Hardware Charge represents the agreed retail value of the Promotional
 - Purchased Beer credits are only eligible for refund within the 30-day cooling-off period if the bundled credits remain 100% untouched. If any portion of the purchased credits is spent, redeemed, or consumed, the entire bundle instantly becomes non-refundable.
 - Upon issuing a refund or closing an account, all associated credits are immediately voided.
 
-**9. REFUNDS, WARRANTIES, AND CARE PLANS**
+**9. RETURNS, REFUNDS AND NON-RETURNABLE ITEMS**
 
-**9.1 General Returns**
+We want you to love your Pinter experience. If you are not satisfied, the following return and refund rules apply.
 
-- To initiate a return within your 30-day window, log into your Pinter account portal or (if you purchased the Standalone Hardware plan without an account) contact hello@pinter.com. 
-- Items must be returned in clean, good working condition in their original packaging.
-- You must ship the return within **14 days** of authorization.
+**9.1 Pinter Machines**
 
-**9.2 Warranties & Care Plans**
+**Within 30 days of receipt for Delivery Plan customers:**
 
-- **Standard Warranty:** Standard Pinter purchases and Minimum Order Delivery Plans are supplied with a standard manufacturer’s warranty. Full details, coverage, and exclusions are available at: https://pinter.com/pages/warranty
-- **Upgraded Care Plans:** Certain premium promotional bundles (such as specific Financed Pre-Paid plans or post-purchase offers) may include an upgraded Care Plan. If your Care Plan or product was bundled with Promotional Credits, it is subject to the strict refund rules outlined in Section 8.4. Full details and coverage of the plans are available at: https://pinter.com/pages/pinter-care-plan
+- Return your Pinter machine unused and in original packaging for a refund.
+- The machine must be unopened or show no signs of use beyond initial inspection.
+- Contact hello@pinter.com to start your return.
 
-**10. PRIVACY & DATA USE**
+**After 30 days of receipt for Delivery Plan customers:**
 
-- Governed by our Privacy Policy.  
-- You may unsubscribe from marketing emails at any time.  
+If you received your Pinter through a promotional offer and return or cancel before completing your minimum commitment, an Amortized Deferred Hardware Charge may still apply as set out in Section 8.3.
 
-**11. LIMITATION OF LIABILITY AND FORCE MAJEURE**
+**Within 30 days for Pay-As-You-Go customers:**
 
-- Pinter is not liable for indirect or consequential damages.  
-- Not responsible for delays caused by external events (strikes, disasters, carrier issues).  
+- Return your Pinter machine unused and in original packaging for a full refund.
+- The machine must be unopened or show no signs of use beyond initial inspection.
+- No hardware charges apply because you purchased outright with no commitment.
+- Contact hello@pinter.com or webchat to start your return.
+- You must ship returns within 14 days of receiving authorization.
 
-**12. DISPUTE RESOLUTION AND GOVERNING LAW**
+**Faulty machines:**
 
-- Binding arbitration under FAA.  
-- No class actions.  
-- Arbitration decisions are final.  
-- Governed by U.S. and Delaware law.  
+- Within 30 days of receipt: full refund, with no hardware charge for defective products.
+- After 30 days of receipt: repair or replacement under warranty.
+- Wear and tear is not covered.
 
-**13. CHANGES TO TERMS**
+**9.2 Pinter Packs**
 
-- Terms may be modified.  
-- Updated versions posted on the website.  
-- Continued use implies acceptance.  
+**Within the 30-day money-back guarantee for Delivery Plan customers:**
 
-**14. CONTACT US**
+- Return unopened Pinter Packs along with your Pinter machine in original packaging for a refund.
+- Contact hello@pinter.com or webchat to start your return.
+- You must ship returns within 14 days of receiving authorization.
+
+**Outside the 30-day money-back guarantee and for Pay-As-You-Go customers:**
+
+- Pinter Packs are sold as final-sale products. Due to health and safety reasons, we cannot accept returns, exchanges, or issue refunds for these items once processed. This includes automated Delivery Plan orders.
+- If your Pinter Pack arrives damaged, faulty or with the wrong item(s), we will replace it. Contact hello@pinter.com or webchat within 14 days of delivery with your order number, the batch or lot number printed on the pack, and clear photos of the damage or defect.
+
+**9.3 Return Shipping Costs**
+
+For faulty or defective products:
+
+- We will cover return shipping costs.
+- Contact us for a prepaid return label.
+
+For change-of-mind returns:
+
+- You are responsible for return shipping costs.
+- We recommend using a trackable shipping method.
+- Items are your responsibility until they reach us.
+
+**9.4 How To Return**
+
+1. Contact us at hello@pinter.com or via webchat within the applicable timeframe.
+2. Wait for authorization. We will send you return instructions and any applicable charges.
+3. Ship your return within 14 days of receiving authorization.
+4. Receive your refund within 5-10 business days after we receive your return.
+
+Returned items must be unused and in original packaging, include all components, and be accompanied by proof of purchase or an order number.
+
+**9.5 Refund Details**
+
+Refunds will be issued to your original payment method:
+
+- Pinter Packs: full refund for eligible unopened packs.
+- Pinter Machine purchased Pay-As-You-Go: full refund where eligible.
+- Pinter Machine received under a promotional offer: refund may be reduced by any applicable Amortized Deferred Hardware Charge if your commitment is incomplete.
+
+Refunds are processed within 5-10 business days after we receive your return. Your bank or card issuer may take additional time to process the credit.
+
+**9.6 Non-Returnable Items**
+
+The following items are non-returnable:
+
+- Opened or used Pinter Packs.
+- Items not in original packaging.
+- Equipment showing signs of use beyond initial inspection.
+- Items returned without authorization.
+
+**9.7 Processed or Shipped Orders**
+
+Once your order has been processed or shipped:
+
+- It cannot be cancelled.
+- You may return it only by following the applicable return rules above.
+
+---
+
+**10. CANCELLATION POLICY**
+
+**10.1 1-Hour Order Cancellation**
+
+After placing your order, you have a 1-hour window to cancel it with a single click directly from your order confirmation page. Once this window passes, your order is routed to our warehouse and cannot be stopped prior to delivery.
+
+**10.2 30-Day Money-Back Guarantee**
+
+Every Pinter comes with a 30-day money-back guarantee. If it is not for you, you can start the returns process directly from your account or contact hello@pinter.com to initiate a return. Send the hardware back in perfect working condition within 30 days, and we will refund your eligible hardware and any unopened Pinter Packs and cancel your Delivery Plan or financing agreement. Opened Pinter Packs are non-refundable for ingredient safety reasons.
+
+**10.3 Pay-As-You-Go Option**
+
+You may purchase a Pinter machine outright from $199 with no Delivery Plan, no minimum orders, and no Amortized Deferred Hardware Charges unless a different offer is clearly stated at checkout.
+
+**10.4 Minimum Order Delivery Plans**
+
+If your plan included $0 upfront promotional hardware, it was provided on the condition that you complete a minimum number of future beer deliveries.
+
+- **Commitment progress:** Only successfully billed and shipped deliveries count toward your minimum commitment. Rescheduled deliveries delay your commitment end date but do not reduce the total number of required orders.
+- **Standard cancellation:** Once you have completed your minimum required deliveries, you may pause or cancel future deliveries at any time via your Pinter account portal with no charge.
+- **Early cancellation after 30 days:** If you wish to cancel your Delivery Plan before completing your required number of deliveries, you must pay an Amortized Deferred Hardware Charge to settle your outstanding promotional balance. This charge starts at the retail value of the hardware ($199 for a standard Pinter, $349 for a standard Pinter + Co-Pinter) and decreases proportionally with every successful delivery you receive. Paying this charge settles your remaining agreement in full.
+
+Special edition Pinters may have a higher MSRP and associated hardware charge. This will be clearly shown to you on the Pinter selection page prior to checkout.
+
+**10.5 Managing Your Deliveries**
+
+You are in control of your shipping schedule. Changes to Delivery Plan shipping dates, skipped deliveries, or flavor swaps must be made via your Pinter account portal by **11:59 p.m. Eastern Time (ET) the day before** your next scheduled billing date.
+
+---
+
+**11. WARRANTY TERMS**
+
+This is a Limited Warranty.
+
+**11.1 Overview**
+
+This Limited Warranty applies to the Pinter and Co-Pinter device ("Product") purchased directly from Pinter USA Group Inc. ("Pinter", "we", "us", or "our"). It sets out what is covered, how long the cover lasts, and how you can make a claim.
+
+This Limited Warranty is in addition to any statutory rights you may have. It applies only to the original purchaser and is non-transferable.
+
+**11.2 Warranty Period**
+
+We warrant that the Product will be free from defects in materials and workmanship for **12 months** from the date it is originally purchased by the end user ("Warranty Period").
+
+This Limited Warranty applies to the Pinter and Co-Pinter device only. Pinter Packs are covered separately under our Freshness & Quality Guarantee in Section 11.7.
+
+**11.3 What We Will Do**
+
+If a defect in materials or workmanship arises during the Warranty Period, we will, at our discretion:
+
+- Replace the Product, in full or with a replacement part, with the same model or a substantially similar model; or
+- Provide a refund if repair or replacement is not commercially reasonable.
+
+If the Product is repaired or replaced, the repaired or replacement Product is covered for the remainder of the original Warranty Period or 90 days from the date of repair or replacement, whichever is longer.
+
+**11.4 Exclusions**
+
+This Limited Warranty does not cover:
+
+- Damage resulting from misuse, abuse, accident, neglect, improper cleaning, or failure to follow the operating instructions.
+- Damage resulting from unauthorized repair, modification, or disassembly.
+- Cosmetic damage or wear that does not affect functionality, including marks, scratches, discoloration, and normal wear and tear of consumable parts such as seals, valves or gaskets.
+- Use of the Product in a commercial or non-domestic environment.
+- Any malfunction, damage, or performance issue that we reasonably determine to have been caused, directly or indirectly, by the use of third-party or incompatible products or ingredients.
+
+Nothing in this Limited Warranty affects your statutory rights.
+
+**11.5 Inspection and Evaluation**
+
+When you make a warranty claim, we may:
+
+- Request return of the Product or relevant components for inspection.
+- Ask for proof of purchase.
+- Ask for the serial number of the Product.
+- Request information relating to the ingredient packs used, including the batch number.
+- Request photographic or written documentation describing the issue.
+- Issue a written determination regarding whether the claim is covered.
+
+If we determine that the issue is not covered under this Limited Warranty, we will notify you in writing.
+
+**11.6 How To Make A Claim**
+
+To make a claim, contact hello@pinter.com.
+
+Please include proof of purchase, serial number of the Product, a description of the issue, and supporting photographs or video where possible. If a return is required, we will provide instructions and a prepaid return label where applicable.
+
+**11.7 Freshness & Quality Guarantee for Pinter Packs**
+
+Pinter Packs are guaranteed to arrive in good condition and remain usable until the Best if used by date printed on the pack. If a Pinter Pack arrives damaged, spoiled, or otherwise unusable, please contact us within 15 days of delivery and we will replace it or provide a refund.
+
+**11.8 Warranty Rights**
+
+This Limited Warranty is provided in accordance with the Magnuson-Moss Warranty Act. Any implied warranties are limited to the duration of this Limited Warranty, unless prohibited by state law. Some states do not allow limitations on implied warranties or the exclusion of incidental or consequential damages, so these limitations may not apply to you. This warranty gives you specific legal rights, and you may also have other rights which vary from state to state.
+
+**11.9 Care Plans**
+
+Certain premium promotional bundles or post-purchase offers may include an upgraded Care Plan. If your Care Plan or product was bundled with Promotional Credits, it is subject to the refund rules outlined in Section 8.4. Full details and coverage of the plans are available at https://pinter.com/pages/pinter-care-plan.
+
+**11.10 Limitation of Liability**
+
+To the maximum extent permitted by law, we will not be responsible for:
+
+- Indirect, incidental, or consequential losses; or
+- Loss of ingredients, brewed beverages, or other consumables.
+
+Some states do not allow limitations on implied warranties or the exclusion of incidental or consequential damages, so these limitations may not apply to you.
+
+**11.11 Pre-Purchase Availability**
+
+These warranty terms are made available before purchase at https://pinter.com/pages/warranty and are also accessible inside the Product packaging through a QR code link.
+
+**11.12 Governing Law**
+
+This Limited Warranty is governed by the laws of the state in which you reside, except where these Terms state otherwise or applicable law requires otherwise.
+
+---
+
+**12. PRIVACY & DATA USE**
+
+Our Privacy Policy applies separately and explains how we collect, use, store, and protect personal data. You may unsubscribe from marketing emails at any time.
+
+---
+
+**13. LIMITATION OF LIABILITY AND FORCE MAJEURE**
+
+- Pinter is not liable for indirect or consequential damages to the extent permitted by law.
+- Pinter is not responsible for delays caused by external events, including strikes, disasters, carrier issues, severe weather, or other events outside our reasonable control.
+
+---
+
+**14. DISPUTE RESOLUTION AND GOVERNING LAW**
+
+- Binding arbitration under FAA.
+- No class actions.
+- Arbitration decisions are final.
+- Governed by U.S. and Delaware law.
+
+---
+
+**15. CHANGES TO TERMS**
+
+- Terms may be modified.
+- Updated versions will be posted on the website.
+- Continued use implies acceptance.
+
+---
+
+**16. CONTACT US**
 
 **Email:** hello@pinter.com  
 **Webchat:** www.pinter.com  
