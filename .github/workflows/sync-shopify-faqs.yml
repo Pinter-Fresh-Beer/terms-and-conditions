@@ -1,0 +1,33 @@
+name: Sync Shopify FAQs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - faqs-lp-usa.yml
+      - scripts/sync-faqs-to-shopify.rb
+      - .github/workflows/sync-shopify-faqs.yml
+  workflow_dispatch:
+
+jobs:
+  sync-faqs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Sync FAQs to Shopify
+        env:
+          FAQS_SOURCE_PATH: faqs-lp-usa.yml
+          SHOPIFY_FAQ_GROUP_HANDLE: faqs-lp-usa
+          SHOPIFY_FAQ_GROUP_INTERNAL_NAME: faqs_lp_usa
+          SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
+          SHOPIFY_ADMIN_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ADMIN_ACCESS_TOKEN }}
+          SHOPIFY_API_VERSION: ${{ secrets.SHOPIFY_API_VERSION }}
+        run: ruby scripts/sync-faqs-to-shopify.rb
