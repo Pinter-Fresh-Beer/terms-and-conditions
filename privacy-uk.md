@@ -4,7 +4,7 @@
 
 The Greater Good Fresh Brewing Co Ltd t/a Pinter, of Studio 10, Tiger House, Burton Street, London, WC1H 9BY, UK and Pinter USA Group Inc., of 8 The Green, Suite R, Dover, Kent County, Delaware 19901, USA ("Pinter", "us", "we", "our") are fully committed to the protection of the Personal Data we process in line with the data protection principles set out in the relevant data protection laws.
 
-These Data Protection Laws include the UK General Data Protection Regulation ("UK GDPR"); the Data Protection Act 2018 ("DPA 2018"); the Privacy and Electronic Communications Regulations 2003 (PECR) as amended; the California Consumer Privacy Act (CCPA); the California Privacy Rights Act (CPRA); the Colorado Privacy Act (CPA); the Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); the Delaware Personal Data Privacy Act (DPDPA); the Florida Digital Bill of Rights (FDBR); the Indiana Consumer Data Protection Act (ICDPA); the Iowa Consumer Data Protection Act (ICDPA); the Montana Consumer Data Privacy Act (MCDPA); s1 - s9 Oregon Consumer Privacy Act (OCPA); the Tennessee Information Protection Act (TIPA); the Texas Data Privacy and Security Act (TDPSA); the Utah Consumer Privacy Act (UCPA); and the Virginia Consumer Data Protection Act (CDPA) collectively referred to herein as the "Data Protection Law".
+These Data Protection Laws include the UK General Data Protection Regulation ("UK GDPR"); the Data Protection Act 2018 ("DPA 2018"); and the Privacy and Electronic Communications Regulations 2003 (PECR) as amended.
 
 > **Note:** If you are in California, United States, please refer to your California Consumer Privacy Act ("CCPA") rights in [Appendix A](#appendix-a-california-consumer-privacy-act-ccpa).
 
