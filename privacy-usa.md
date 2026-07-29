@@ -73,7 +73,11 @@ We use this information to contact you about your enquiry.
 
 **Internal analysis.** We analyse information from across our systems to improve our service, manage risk and tailor the support and offers we provide. This analysis is used for internal operational purposes only and does not produce automated decisions with a legal or similarly significant effect.
 
-**AI-assisted processing.** We use AI tools provided by third-party service providers to help our team handle support queries, analyse data and carry out internal reporting. Your Personal Data may be sent to these providers’ systems and returned as part of the response. Each provider acts as a processor under a binding agreement  -  it does not use your data for its own purposes or to train AI models. A person always reviews any AI-assisted output before it is used to take an action that affects you.
+**AI-assisted processing.** We use AI tools provided by third-party service providers in two ways. Where AI supports our team internally - for example helping to draft responses to support enquiries, analysing data, and internal reporting - your Personal Data may be sent to the provider's systems and returned as part of the response. Where the output is used to make a decision about you, a member of our team makes that decision.
+
+Where AI communicates with you directly - for example an automated assistant answering your questions in web chat or by email - you are interacting with an automated system rather than a member of our team. You can ask to speak to a member of our team at any time and we will pass you to one. These automated conversations do not make decisions about your account, orders or payments that have a legal or similarly significant effect on you.
+
+Each provider acts as a service provider under a written contract. Under those agreements, providers may only process your data on our instructions and may not use it for their own purposes, including to develop or train their own AI models.
 
 **Cookies, Web Beacons and Fraud-Prevention Tracking**
 
@@ -95,7 +99,7 @@ We only use your Personal Data when permitted by law.
 | Setting up a customer account | Contract |
 | Business management and analytics | Legitimate interest |
 | Internal analysis and customer insight | Legitimate interest |
-| AI-assisted internal operations | Legitimate interest |
+| AI-assisted operations, including automated customer support | Legitimate interest |
 | Improving website experience | Legitimate interest |
 | Use of cookies | Consent |
 | Location-based personalisation | Legitimate interest |
@@ -145,7 +149,7 @@ We have safeguards in place. You can ask us to review an automated decision: a m
 
 We carry out our own internal analysis of customer data to inform operational decisions such as managing support, tailoring offers and managing risk. This analysis does not, on its own, produce automated decisions with a legal or similarly significant effect on you.
 
-When our team uses AI tools (see section 4), the AI assistant may help analyse this data as part of answering a question from a member of staff. The AI tool does not make decisions about you  -  it provides information to a person, who is always responsible for any action taken.
+When our team uses AI tools internally (see section 4), the AI assistant may help analyse this data as part of answering a question from a member of staff. For internal use, the AI tool provides information to a person, who is responsible for any action taken.
 
 **8. How long we keep your data**
 
@@ -222,13 +226,13 @@ Personal Data does not include publicly available information.
 
 For fraud prevention, we also process and disclose identity and contact details, order information and payment card BIN, and device and behavioural data to our fraud-prevention partner, Equifax (Kount 360), so that accounts, orders and payments can be screened for fraud. Equifax/Kount 360 also obtains data about you from other sources (such as mobile network operators, public records and other commercially available data) and screens your details against sanctions and global watchlists. We use this information to detect, prevent and investigate fraud and to secure our services.
 
-For AI-assisted internal operations, we also process your Personal Data through third-party AI service providers, each of which acts as a service provider under a data processing agreement. Each provider processes your data solely on our instructions, does not use it for its own purposes, does not use it for model training, and retains it only for the periods described in section 8 of the main Privacy Notice.
+For AI-assisted operations (including both internal use and automated customer support), we also process your Personal Data through third-party AI service providers, each of which acts as a service provider under a written contract. Each provider processes your data solely on our instructions, does not use it for its own purposes, does not use it for model training, and retains it only for the periods described in section 8 of the main Privacy Notice.
 
 **3. Sharing your Personal Data**
 
 We disclose the Personal Data described above to Equifax (Kount 360), which acts as an **independent data controller** for fraud-prevention, identity-trust and global fraud-network purposes under the Equifax Digital Solutions Data Protection Addendum. We disclose this data only for fraud-prevention and security purposes, not for marketing.
 
-We also disclose Personal Data to third-party AI service providers, each of which acts as a **service provider** (processor) for AI-assisted internal operations. Each provider processes data solely on our instructions under a binding data processing agreement and retains it only for the periods described in section 8 of the main Privacy Notice.
+We also disclose Personal Data to third-party AI service providers, each of which acts as a **service provider** (processor) for AI-assisted operations (including automated customer support). Each provider processes data solely on our instructions under a binding data processing agreement and retains it only for the periods described in section 8 of the main Privacy Notice.
 
 **We do not sell your Personal Data, and we do not share your Personal Data for cross-context behavioural advertising.** Our disclosure of data to Equifax/Kount 360 is made to detect and prevent fraud and to secure our services. Depending on the volume and nature of this disclosure, some US state laws may characterise a controller-to-controller disclosure of this kind as a "sale" or "share"; this disclosure is made solely for fraud prevention and security, which is a recognised exception under those laws.
 
@@ -236,7 +240,7 @@ We also disclose Personal Data to third-party AI service providers, each of whic
 
 We use automated processing and profiling (provided by Equifax/Kount 360) to assess the fraud risk of accounts, orders and payments. Based on the risk score and our thresholds, an order may be automatically declined or set aside. Because this processing is necessary to prevent fraud and protect against credit risk, you cannot opt out of the core fraud checks if you wish to transact with us. You can, however, ask us to review an automated decision: we operate a manual review process that can override an automated outcome, and we will offer a non-discriminatory alternative (such as a one-off payment option) where an order is declined on a payment-plan or credit basis.
 
-We also carry out internal analysis and use AI tools to assist with customer data (see section 4 (Personal Data we collect) and section 7b (Internal analysis and AI-assisted processing) of the main Privacy Notice). These do not produce solely automated decisions with a legal or similarly significant effect  -  a person always reviews the output before acting on it.
+We also carry out internal analysis and use AI tools to assist with customer data (see section 4 (Personal Data we collect) and section 7b (Internal analysis and AI-assisted processing) of the main Privacy Notice). Where AI is used internally by our team, a person reviews the output before acting on it. Where AI communicates with you directly, the automated conversations do not make decisions about your account, orders or payments that have a legal or similarly significant effect on you.
 
 To exercise your rights in relation to automated decisions, contact **privacy@pinter.com**.
 
@@ -259,7 +263,7 @@ For questions: **privacy@pinter.com**
 
 ---
 
-**Version:** v6.0  
+**Version:** v6.1  
 **Last Updated:** 29th July 2026  
 **Classification:** PUBLIC USE  
 **Status:** UNCONTROLLED WHEN PRINTED

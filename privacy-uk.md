@@ -73,7 +73,11 @@ We use your name, email address and telephone number to contact you about your e
 
 **Internal analysis.** We analyse information from across our systems to improve our service, manage risk and tailor the support and offers we provide to you. This analysis is used by our team for internal operational purposes only and does not produce automated decisions with a legal or similarly significant effect on you.
 
-**AI-assisted processing.** We use AI tools provided by third-party service providers to help our team handle support queries, analyse data and carry out internal reporting. Your Personal Data may be sent to these providers' systems and returned as part of the response. Each provider acts as a data processor under a binding agreement  -  it does not use your data for its own purposes or to train AI models. A person always reviews any AI-assisted output before it is used to take an action that affects you.
+**AI-assisted processing.** We use AI tools provided by third-party service providers in two ways. Where AI supports our team internally - for example helping to draft responses to support enquiries, analysing data, and internal reporting - your Personal Data may be sent to the provider's systems and returned as part of the response. Where the output is used to make a decision about you, a member of our team makes that decision.
+
+Where AI communicates with you directly - for example an automated assistant answering your questions in web chat or by email - you are interacting with an automated system rather than a member of our team. You can ask to speak to a member of our team at any time and we will pass you to one. These automated conversations do not make decisions about your account, orders or payments that have a legal or similarly significant effect on you.
+
+Each provider acts as a data processor under a binding agreement. Under those agreements, providers may only process your data on our instructions and may not use it for their own purposes, including to develop or train their own AI models.
 
 **Cookies, Web Beacons and Fraud-Prevention Tracking**
 
@@ -95,7 +99,7 @@ We will only use your Personal Data when the law allows. Most commonly, we will 
 | Setting up a customer account to facilitate purchases | When you set up an account with us, we process your data to satisfy the sales contract between us |
 | Business management, forecasting and statistical purposes | It is our legitimate interest to identify areas for managing current business relationships, develop our services and for managing our business |
 | Internal analysis and customer insight | It is our legitimate interest to understand our customer base, manage risk and improve our service |
-| AI-assisted internal operations | It is our legitimate interest to operate efficiently and improve the speed and quality of support and decision-making |
+| AI-assisted operations, including automated customer support | It is our legitimate interest to operate efficiently and improve the speed and quality of support and decision-making |
 | Improving our website and the overall visitor and user website experience | It is our legitimate interest to allow analytics and search engine providers to help improve and optimise our website |
 | Improving our website and the overall visitor and user website experience | We use cookies on our website with your consent. Cookies can be managed using your browser settings |
 | Improving our website and the overall visitor and user website experience | We use location information to provide personalise marketing options to enhance your experience with tailored recommendations |
@@ -147,7 +151,7 @@ We have safeguards in place. You can ask us to review an automated decision: a m
 
 We carry out our own internal analysis of customer data to inform operational decisions such as managing support, tailoring offers and managing risk. This analysis does not, on its own, produce automated decisions that have a legal or similarly significant effect on you.
 
-When our team uses AI tools (see section 4), the AI assistant may help analyse this data as part of answering a question from a member of staff. The AI tool does not make decisions about you  -  it provides information to a person, who is always responsible for any action taken.
+When our team uses AI tools internally (see section 4), the AI assistant may help analyse this data as part of answering a question from a member of staff. For internal use, the AI tool provides information to a person, who is responsible for any action taken.
 
 **8. How long we keep your data**
 
@@ -273,7 +277,7 @@ We may disclose to service providers and business partners:
 
 We use automated processing and profiling (provided by Equifax/Kount 360) to assess the fraud risk of accounts, orders and payments. Based on the risk score and our thresholds, an order may be automatically declined or set aside. Because this processing is necessary to prevent fraud and protect against credit risk, you cannot opt out of the core fraud checks if you wish to transact with us. You can, however, ask us to review an automated decision: we operate a manual review process that can override an automated outcome, and we will offer a non-discriminatory alternative (such as a one-off payment option) where an order is declined on a payment-plan or credit basis.
 
-We also carry out internal analysis and use AI tools to assist with customer data (see section 4 (Personal Data we collect) and section 7b (Internal analysis and AI-assisted processing) of the main Privacy Notice). These do not produce solely automated decisions with a legal or similarly significant effect  -  a person always reviews the output before acting on it.
+We also carry out internal analysis and use AI tools to assist with customer data (see section 4 (Personal Data we collect) and section 7b (Internal analysis and AI-assisted processing) of the main Privacy Notice). Where AI is used internally by our team, a person reviews the output before acting on it. Where AI communicates with you directly, the automated conversations do not make decisions about your account, orders or payments that have a legal or similarly significant effect on you.
 
 To exercise your rights in relation to automated decisions, contact **privacy@pinter.co.uk**.
 
@@ -298,7 +302,7 @@ For questions about this Appendix or your rights, contact: **privacy@pinter.co.u
 
 ---
 
-**Version:** v6.0  
+**Version:** v6.1  
 **Last Updated:** 29th July 2026  
 **Classification:** PUBLIC USE  
 **Status:** UNCONTROLLED WHEN PRINTED
