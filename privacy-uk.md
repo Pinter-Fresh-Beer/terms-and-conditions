@@ -137,7 +137,7 @@ We may share your name, address, email address and transaction history with appr
 
 **International transfers for AI processing.** Our AI providers' systems may be based in the United States. Where your Personal Data is transferred outside the UK in connection with this processing, the transfer is made under appropriate safeguards, specifically the EU Standard Contractual Clauses with the UK Addendum, incorporated into our data processing agreements with each provider.
 
-Our website includes links to other third-party websites and social media platforms (Facebook, Instagram, X (formerly known as Twitter)); when you navigate away from our site via one of the links, the site may collect your IP address and may set a cookie on your device. When you use one of these links, you're sharing information with another website or service and this Notice will no longer apply. Please read the privacy notices provided by the particular service website you are directed to before posting any personal information using these links.
+Our website includes links to other third-party websites and social media platforms (Facebook, Instagram, X); when you navigate away from our site via one of the links, the site may collect your IP address and may set a cookie on your device. When you use one of these links, you're sharing information with another website or service and this Notice will no longer apply. Please read the privacy notices provided by the particular service website you are directed to before posting any personal information using these links.
 
 **7a. Automated decision-making and profiling**
 
