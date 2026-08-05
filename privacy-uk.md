@@ -71,6 +71,8 @@ We use your name, email address and telephone number to contact you about your e
 
 **Data we obtain about you from other sources.** As part of this screening, Equifax/Kount 360 also combines the data above with information it obtains from other sources to assess fraud risk. This can include data from mobile network operators, public records, other commercially available data, and signals about whether your email or details are linked to valid online profiles. Your details are also screened against sanctions and global watchlists (for example, for money laundering and other financial crime) and may be added to a confidential database for ongoing watchlist monitoring. Equifax/Kount 360 uses all of this to generate a fraud risk score and recommendation, which we treat as additional Personal Data about you. See section 7 (Sharing your data) and section 7a (Automated decision-making and profiling) for more detail.
 
+**Refer-a-Friend programme.** If you sign up using another customer's referral code, we link your account to theirs so that referral rewards can be issued and the programme administered under the Refer-a-Friend Programme section of our Terms of Service. We rely on the performance of our contract with each of you as the lawful basis for this processing. The referring customer will not be shown your order details, and you will not be shown theirs beyond confirmation of whose referral code was used.
+
 **Internal analysis.** We analyse information from across our systems to improve our service, manage risk and tailor the support and offers we provide to you. This analysis is used by our team for internal operational purposes only and does not produce automated decisions with a legal or similarly significant effect on you.
 
 **AI-assisted processing.** We use AI tools provided by third-party service providers in two ways. Where AI supports our team internally - for example helping to draft responses to support enquiries, analysing data, and internal reporting - your Personal Data may be sent to the provider's systems and returned as part of the response. Where the output is used to make a decision about you, a member of our team makes that decision.
@@ -303,6 +305,6 @@ For questions about this Appendix or your rights, contact: **privacy@pinter.co.u
 ---
 
 **Version:** v6.1  
-**Last Updated:** 29th July 2026  
+**Last Updated:** 5th August 2026  
 **Classification:** PUBLIC USE  
 **Status:** UNCONTROLLED WHEN PRINTED
