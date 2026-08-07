@@ -71,6 +71,10 @@ We use this information to contact you about your enquiry.
 
 **Data we obtain about you from other sources.** As part of this screening, Equifax/Kount 360 also combines the data above with information it obtains from other sources to assess fraud risk. This can include data from mobile network operators, public records, other commercially available data, and signals about whether your email or details are linked to valid online profiles. Your details are also screened against sanctions and global watchlists (for example, for money laundering and other financial crime) and may be added to a confidential database for ongoing watchlist monitoring. Equifax/Kount 360 uses all of this to generate a fraud risk score and recommendation, which we treat as additional Personal Data about you. See section 7 (Sharing your data) and section 7a (Automated decision-making and profiling) for more detail.
 
+**Refer-a-Friend program.** If you sign up using another customer's referral code, we link your account to theirs so that referral rewards can be issued and the program administered under the Refer-a-Friend Program section of our Terms and Conditions. The referring customer will not be shown your order details, and you will not be shown theirs beyond confirmation of whose referral code was used.
+
+A referring customer may also give us a friend's email address so that we can send that friend a one-time referral invitation on their behalf. We use that email address only to send the invitation and to recognise the friend if they sign up; we do not add it to any marketing list or share it with anyone else. If the friend does not create an account, we delete their email address within **30 days**. Referring customers must only give us the email address of someone they know personally and who they reasonably believe is happy to receive the invitation.
+
 **Internal analysis.** We analyse information from across our systems to improve our service, manage risk and tailor the support and offers we provide. This analysis is used for internal operational purposes only and does not produce automated decisions with a legal or similarly significant effect.
 
 **AI-assisted processing.** We use AI tools provided by third-party service providers in two ways. Where AI supports our team internally - for example helping to draft responses to support enquiries, analysing data, and internal reporting - your Personal Data may be sent to the provider's systems and returned as part of the response. Where the output is used to make a decision about you, a member of our team makes that decision.
@@ -156,6 +160,8 @@ When our team uses AI tools internally (see section 4), the AI assistant may hel
 We retain your data as long as necessary for services and afterwards for legal and operational reasons. Afterwards, data is deleted or anonymised. Personal Data used for fraud prevention is retained for as long as necessary to detect, investigate and prevent fraud and to meet our legal obligations; after the relevant period, personal identifiers are removed from our fraud logs, leaving only anonymised statistical data. Under our agreement with Equifax/Kount, on termination Equifax/Kount will return or destroy the relevant data within 30 days and provide an attestation of destruction.
 
 Personal Data processed through our AI tools is held temporarily and deleted in accordance with our agreements with each provider. It is not retained by any AI provider for model training or for any purpose beyond providing the service to us.
+
+Email addresses provided by referring customers under our Refer-a-Friend program are deleted within 30 days if the invited friend does not create an account.
 
 **9. How we protect your data**
 
@@ -264,6 +270,6 @@ For questions: **privacy@pinter.com**
 ---
 
 **Version:** v6.1  
-**Last Updated:** 29th July 2026  
+**Last Updated:** 5th August 2026  
 **Classification:** PUBLIC USE  
 **Status:** UNCONTROLLED WHEN PRINTED
