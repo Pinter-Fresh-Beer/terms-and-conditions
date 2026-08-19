@@ -1,6 +1,6 @@
 **PINTER USA GROUP INC. TERMS AND CONDITIONS**
 
-**Last Updated:** April 18, 2026
+**Last Updated:** August 5th 2026
 
 These Terms and Conditions ("Terms") govern your use of the website **www.pinter.com** (the "Site") and all purchases, delivery plans, promotions, and offers made by Pinter USA Group Inc. ("Pinter," "we," "us," or "our").
 
@@ -118,6 +118,22 @@ A Deferred Hardware Charge represents the agreed retail value of the Promotional
 - Refunds for standard deposits are strictly limited to the unspent portion of the user's original cash deposit.
 - Purchased Beer credits are only eligible for refund within the 30-day cooling-off period if the bundled credits remain 100% untouched. If any portion of the purchased credits is spent, redeemed, or consumed, the entire bundle instantly becomes non-refundable.
 - Upon issuing a refund or closing an account, all associated credits are immediately voided.
+
+**8.5 Refer-a-Friend Program**
+
+Eligible customers ("Referrers") can earn rewards by referring friends who become new Pinter customers.
+
+- **Who can refer:** You must have a Pinter account in good standing, an **active Delivery Plan** at the time your friend's first order is successfully billed, and be aged 21 or over (or of legal drinking age in your state). Your referral code is personal to you and cannot be sold, transferred, or exchanged.
+- **Sharing your code:** Only share your code with people you know personally and who are of legal drinking age. You must not publish your code on discount, coupon, or deal-sharing websites or in paid advertising, present it as an official Pinter promotion rather than a personal recommendation, or refer yourself (including any person who shares your payment method).
+- **Emailing a friend:** Where you use your account to send your referral code to a friend's email address, you confirm that you know that person, that you have their agreement to share their email address with us for this purpose, and that they are of legal drinking age. We use that email address only to send the referral invitation, as described in our Privacy Notice.
+- **Your friend's reward:** A friend who signs up with a valid referral code receives **$50 of Beer Credit** when they place a Qualifying Order. A "Qualifying Order" is the friend's first order under a newly created Delivery Plan, placed by a new Pinter customer (someone who has not previously held a Pinter account or purchased from Pinter), which is successfully billed and not subsequently cancelled, refunded, or charged back, and which passes our fraud and eligibility checks.
+- **Household limit:** The friend's reward is an **introductory offer** under Section 8.2 - one per household, based on delivery address, billing address and/or payment method.
+- **Stacking:** A valid referral code may be combined with one other promotional or discount code on the same order, unless the terms of that promotion state otherwise.
+- **Your reward:** When your friend's Qualifying Order is successfully billed, you receive **$50 of Beer Credit**. Referrers are currently limited to **one successful referral reward**; the current limit is always shown in the Referrals section of your Pinter account.
+- **Beer Credit:** Referral Beer Credit is a Promotional Bonus Credit subject to Section 8.4, and **expires 12 months** after the date it is issued.
+- **Reversal of rewards:** Referral rewards are issued on the basis that the Qualifying Order completes and these rules have been followed. If the order is cancelled, refunded, or charged back, fails our fraud or eligibility checks, or a reward was obtained in breach of this Section (including self-referral), we may reverse the reward and any Beer Credit issued - including deducting the value of credit already spent from remaining balances. Fraud or misuse may also result in the consequences set out in Section 8.1.
+- **Changes to the Program:** Referral rewards are a discretionary loyalty benefit, not payment or other consideration for services. We may modify, suspend, or withdraw the Program (including reward amounts, reward form, referral limits, and the point at which rewards are issued) at any time. Changes will not affect rewards you have already validly earned, except as set out above.
+- **Your friend's privacy:** When your friend signs up with your code, we link their account to yours so rewards can be issued and the Program administered. Neither of you is shown the other's order or account details beyond confirming whose code was used. Personal data is handled in accordance with our Privacy Notice.
 
 **9. RETURNS, REFUNDS AND NON-RETURNABLE ITEMS**
 

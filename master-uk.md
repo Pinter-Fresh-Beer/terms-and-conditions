@@ -1,6 +1,6 @@
 **PINTER UK LTD** **TERMS OF SERVICE**
 
-**Last Updated:** 19 May 2026
+**Last Updated:** 5 August 2026
 
 These Terms and Conditions (“Terms”) apply when you use www.pinter.co.uk (the “Site”) or purchase any products or subscription services from The Greater Good Fresh Brewing Co (“Pinter”, “we”, “us”, “our”).
 
@@ -155,7 +155,7 @@ Promotions are offered from time to time and may include discounts, free gifts, 
 **8.1 General Promotional Rules**
 
 - Promotions cannot be transferred, exchanged or combined unless stated
-- Only **one promotional or discount code** may be used per order
+- Only **one promotional or discount code** may be used per order, except that a valid **referral code** issued under our Refer-a-Friend Programme (see Section 8.4) may be used in addition to one other promotional or discount code, unless the terms of that promotion state otherwise
 - We reserve the right to carry out fraud or misuse checks at any time before or after an order is placed
 - Fraud or misuse may result in cancellation and permanent blocking of any further purchases
 - We may amend or withdraw any promotion if necessary (e.g., due to error, misuse or fraud)
@@ -179,6 +179,30 @@ Because you own the Promotional Hardware from day one, the upfront discount you 
 Only successfully billed and shipped deliveries count toward your minimum commitment. Rescheduled deliveries delay your commitment end date but do not reduce the total number of required orders.
 
 Special edition Pinters may have a higher MSRP and associated hardware charge. This will be clearly shown to you on the Pinter selection page prior to checkout.
+
+**8.4 Refer-a-Friend Programme**
+
+Eligible customers ("Referrers") can earn rewards by referring friends who become new Pinter customers.
+
+- **Who can refer:** You must have a Pinter account in good standing, an **active Delivery Plan** at the time your friend's first order is successfully billed, and be aged 18 or over. Your referral code is personal to you and cannot be sold, transferred, or exchanged.
+- **Sharing your code:** Only share your code with people you know personally and who are aged 18 or over. You must not publish your code on discount, voucher, or deal-sharing websites or in paid advertising, present it as an official Pinter promotion rather than a personal recommendation, or refer yourself (including any person who shares your payment method).
+- **Your friend's reward:** A friend who signs up with a valid referral code receives **£20 of Beer Credit** when they place a Qualifying Order. A "Qualifying Order" is the friend's first order under a newly created Delivery Plan, placed by a new Pinter customer (someone who has not previously held a Pinter account or purchased from Pinter), which is successfully billed and not subsequently cancelled, refunded, or charged back, and which passes our fraud and eligibility checks.
+- **Household limit:** The friend's reward is an **introductory offer** under Section 8.1 - one per household, based on delivery address, billing address and/or payment method.
+- **Your reward:** When your friend's Qualifying Order is successfully billed, you receive **£20 of Beer Credit**. Referrers are currently limited to **one successful referral reward**; the current limit is always shown in the Referrals section of your Pinter account.
+- **Reversal of rewards:** Referral rewards are issued on the basis that the Qualifying Order completes and these rules have been followed. If the order is cancelled, refunded, or charged back, fails our fraud or eligibility checks, or a reward was obtained in breach of this Section (including self-referral), we may reverse the reward and any Beer Credit issued - including deducting the value of credit already spent from remaining balances. Fraud or misuse may also result in the consequences set out in Section 8.1.
+- **Changes to the Programme:** Referral rewards are a discretionary loyalty benefit, not payment or other consideration for services. We may modify, suspend, or withdraw the Programme (including reward amounts, reward form, referral limits, and the point at which rewards are issued) at any time. Changes will not affect rewards you have already validly earned, except as set out above.
+- **Your friend's privacy:** When your friend signs up with your code, we link their account to yours so rewards can be issued and the Programme administered. Neither of you is shown the other's order or account details beyond confirming whose code was used. Personal data is handled in accordance with our Privacy Notice.
+
+**8.5 Beer Credit and Account Balances**
+
+Where we issue promotional or referral credit ("Beer Credit") to your Pinter account:
+
+- Beer Credit can be spent on Pinter products through your account
+- Beer Credit has **no cash value** and cannot be withdrawn, transferred, sold, or exchanged for cash
+- Where an order is paid partly in cash and partly in Beer Credit, balances are consumed on a **cash-first** basis
+- Beer Credit **expires 12 months** after the date it is issued, unless we state otherwise when issuing it
+- Refunds are limited to amounts you actually paid in cash; Beer Credit applied to a refunded order is not repaid in cash
+- Upon closure of your account, or where a refund is issued for the order that gave rise to the credit, associated Beer Credit is voided
 
 ---
 
