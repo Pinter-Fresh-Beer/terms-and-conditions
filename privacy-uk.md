@@ -71,6 +71,8 @@ We use your name, email address and telephone number to contact you about your e
 
 **Data we obtain about you from other sources.** As part of this screening, Equifax/Kount 360 also combines the data above with information it obtains from other sources to assess fraud risk. This can include data from mobile network operators, public records, other commercially available data, and signals about whether your email or details are linked to valid online profiles. Your details are also screened against sanctions and global watchlists (for example, for money laundering and other financial crime) and may be added to a confidential database for ongoing watchlist monitoring. Equifax/Kount 360 uses all of this to generate a fraud risk score and recommendation, which we treat as additional Personal Data about you. See section 7 (Sharing your data) and section 7a (Automated decision-making and profiling) for more detail.
 
+**Fraud screening records we hold and analyse.** Equifax/Kount 360 returns to us the detailed record of each screening, not only the score and recommendation. That record includes the data we sent, the signals Equifax/Kount derived or obtained from the other sources described above, and the reasons behind its recommendation. We hold these records in our own secure data warehouse and analyse them  -  including with automated pattern-detection and machine-learning techniques  -  so that we can understand how fraud is attempted against us and set our screening rules and thresholds more accurately. This analysis looks for patterns across many customers rather than reaching conclusions about you individually, and it does not itself decline, hold or block any order, account or reward; those outcomes follow the screening described in section 7a.
+
 **Refer-a-Friend programme.** If you sign up using another customer's referral code, we link your account to theirs so that referral rewards can be issued and the programme administered under the Refer-a-Friend Programme section of our Terms of Service. We rely on the performance of our contract with each of you as the lawful basis for this processing. The referring customer will not be shown your order details, and you will not be shown theirs beyond confirmation of whose referral code was used.
 
 **Internal analysis.** We analyse information from across our systems to improve our service, manage risk and tailor the support and offers we provide to you. This analysis is used by our team for internal operational purposes only and does not produce automated decisions with a legal or similarly significant effect on you.
@@ -108,6 +110,7 @@ We will only use your Personal Data when the law allows. Most commonly, we will 
 | Prevention and detection of crime, including money laundering, fraud, or other crimes | We have a legal obligation to report any such activity to the relevant authorities and regulators |
 | Fraud prevention and transaction screening (including via Equifax/Kount 360) | It is our legitimate interest to protect Pinter, our customers and our payment partners against fraud, financial crime and credit risk |
 | Automated fraud risk scoring and decisioning (including via Equifax/Kount 360) | It is our legitimate interest to protect Pinter, our customers and our payment partners against fraud, financial crime and credit risk |
+| Analysing fraud screening records in our own systems to detect fraud patterns and set our screening rules and thresholds | It is our legitimate interest to protect Pinter, our customers and our payment partners against fraud, financial crime and credit risk |
 | Providing you with a newsletter containing offers, promotions and useful hints and tips | We rely on your consent to send you our newsletter. This consent may be withdrawn at any time by emailing privacy@pinter.co.uk or by contacting us by telephone or via our social media platforms |
 | Analyse and track users of our website for reporting and analytical purposes | It is our legitimate interest to monitor our website usage in order to continually improve the user experience |
 | Providing you with content on the front page of the Pinter app with offers, promotions and useful hints and tips | It is our legitimate interest because the personalised content improves user experience and engagement, aligns with users' reasonable expectations and includes safeguards as detailed in the Personalised in-App content below. |
@@ -135,6 +138,8 @@ We may share your name, address, email address and transaction history with appr
 
 **International transfers for fraud prevention.** Equifax/Kount 360 and its sub-processors are based in the United States, and screening data against global fraud databases may involve access from outside the UK. Where your Personal Data is transferred to the United States in connection with this processing, the transfer is made under appropriate safeguards, specifically the UK International Data Transfer Agreement (IDTA) and the EU-US Data Privacy Framework (with the UK Extension), with Standard Contractual Clauses incorporated into Equifax's Data Protection Addendum.
 
+**Data warehouse and analytics providers.** The fraud screening records described in section 4, along with our order and account data, are held and analysed in cloud data warehouse, data pipeline and analytics services provided to us by third parties. Each of these providers acts as a **data processor** on our instructions under a binding data processing agreement: it may only use your Personal Data to provide the service to us, and may not use it for its own purposes. Where these services are hosted outside the UK, the transfer is made under appropriate safeguards, specifically the EU Standard Contractual Clauses with the UK Addendum, incorporated into our data processing agreement with each provider.
+
 **AI service providers.** When our team uses AI tools to work with your data (as described in section 4), your Personal Data may be processed by third-party AI service providers acting as **data processors** on our instructions under binding agreements. Under those agreements, no AI provider will sell or share your data, use it outside the direct business relationship with us, combine it with data from other sources, or use it to train AI models. The technical and organisational measures that apply to this processing are described in section 9.
 
 **International transfers for AI processing.** Our AI providers' systems may be based in the United States. Where your Personal Data is transferred outside the UK in connection with this processing, the transfer is made under appropriate safeguards, specifically the EU Standard Contractual Clauses with the UK Addendum, incorporated into our data processing agreements with each provider.
@@ -151,7 +156,7 @@ We have safeguards in place. You can ask us to review an automated decision: a m
 
 **7b. Internal analysis and AI-assisted processing**
 
-We carry out our own internal analysis of customer data to inform operational decisions such as managing support, tailoring offers and managing risk. This analysis does not, on its own, produce automated decisions that have a legal or similarly significant effect on you.
+We carry out our own internal analysis of customer data to inform operational decisions such as managing support, tailoring offers and managing risk. This includes the analysis of fraud screening records described in section 4, which we use to detect fraud patterns and to set the rules and thresholds applied to future screening. This analysis does not, on its own, produce automated decisions that have a legal or similarly significant effect on you.
 
 When our team uses AI tools internally (see section 4), the AI assistant may help analyse this data as part of answering a question from a member of staff. For internal use, the AI tool provides information to a person, who is responsible for any action taken.
 
@@ -159,9 +164,9 @@ When our team uses AI tools internally (see section 4), the AI assistant may hel
 
 Notwithstanding any requests for deletion, we are legally required by UK tax law (HMRC VAT Notice 700/21) to retain basic records of all commercial transactions (including customer name, billing address, and order details) for a minimum of 6 years from the end of the last financial year in which a transaction occurred.
 
-Additionally, we retain this data for the purposes of fraud prevention and the establishment, exercise, or defense of legal claims under the Limitation Act 1980. During this period, your data will be securely archived and restricted from active processing or marketing use.
+Additionally, we retain this data for the purposes of fraud prevention and the establishment, exercise, or defense of legal claims under the Limitation Act 1980. During this period, your data will be securely archived and restricted from marketing use, and from active processing other than the fraud prevention and legal claims purposes described in this section.
 
-Personal Data used for fraud prevention is retained for as long as necessary to detect, investigate and prevent fraud and to meet our legal obligations; after the relevant period, personal identifiers are removed from our fraud logs, leaving only anonymised statistical data. Under our agreement with Equifax/Kount, on termination Equifax/Kount will return or destroy the relevant data within 30 days and provide an attestation of destruction.
+Personal Data used for fraud prevention is retained for as long as necessary to detect, investigate and prevent fraud and to meet our legal obligations; after the relevant period, personal identifiers are removed from our fraud logs, leaving only anonymised statistical data. The fraud screening records we hold in our own data warehouse (see section 4) are retained on the same basis: for as long as they are needed to detect, investigate and prevent fraud and to meet our legal obligations. When they are no longer needed for that purpose, the personal identifiers within them are deleted or irreversibly aggregated, so that what remains is statistical data that cannot be linked to you. Under our agreement with Equifax/Kount, on termination Equifax/Kount will return or destroy the relevant data within 30 days and provide an attestation of destruction.
 
 **AI-assisted processing retention.** Personal Data processed through our AI tools is held temporarily and deleted in accordance with our agreements with each provider. It is not retained by any AI provider for model training or for any purpose beyond providing the service to us.
 
@@ -254,7 +259,7 @@ We collect:
 - Internet or similar network activity  
 - Inferences drawn from the above categories, such as internal assessments used to improve our service  
 
-For fraud prevention, we also process and disclose identity and contact details, order information and payment card BIN, and device and behavioural data to our fraud-prevention partner, Equifax (Kount 360), so that accounts, orders and payments can be screened for fraud. Equifax/Kount 360 also obtains data about you from other sources and screens your details against sanctions and global watchlists. We use this information to detect, prevent and investigate fraud and to secure our services.
+For fraud prevention, we also process and disclose identity and contact details, order information and payment card BIN, and device and behavioural data to our fraud-prevention partner, Equifax (Kount 360), so that accounts, orders and payments can be screened for fraud. Equifax/Kount 360 also obtains data about you from other sources and screens your details against sanctions and global watchlists. We use this information to detect, prevent and investigate fraud and to secure our services. Equifax/Kount 360 returns the detailed screening record to us, and we hold and analyse those records in our own data warehouse in order to detect fraud patterns and set our screening rules and thresholds, as described in section 4 of the main Privacy Notice.
 
 For AI-assisted internal operations, we also process your Personal Data through third-party AI service providers, each of which acts as a service provider under a data processing agreement. Each provider processes your data solely on our instructions, does not use it for its own purposes, does not use it for model training, and retains it only for the periods described in section 8 of the main Privacy Notice.
 
@@ -265,6 +270,8 @@ Personal Data does not include publicly available information.
 Pinter shares your personal information with service providers and business partners. This includes Equifax (Kount 360), which acts as an **independent data controller** for fraud-prevention, identity-trust and global fraud-network purposes under the Equifax Digital Solutions Data Protection Addendum. We disclose this data only for fraud-prevention and security purposes, not for marketing.
 
 Pinter also discloses Personal Data to third-party AI service providers, each of which acts as a **service provider** (processor) for AI-assisted internal operations. Each provider processes data solely on our instructions under a binding data processing agreement and retains it only for the periods described in section 8 of the main Privacy Notice.
+
+Pinter also discloses Personal Data to the cloud data warehouse, data pipeline and analytics providers described in section 7 of the main Privacy Notice, each of which acts as a **service provider** (processor) and may use the data only to provide the service to us.
 
 **Pinter does not sell your Personal Data, and does not share your Personal Data for cross-context behavioural advertising.** Our disclosure of data to Equifax/Kount 360 is made to detect and prevent fraud and to secure our services. Depending on the volume and nature of this disclosure, some US state laws may characterise a controller-to-controller disclosure of this kind as a "sale" or "share"; this disclosure is made solely for fraud prevention and security, which is a recognised exception under those laws.
 
@@ -279,7 +286,7 @@ We may disclose to service providers and business partners:
 
 We use automated processing and profiling (provided by Equifax/Kount 360) to assess the fraud risk of accounts, orders and payments. Based on the risk score and our thresholds, an order may be automatically declined or set aside. Because this processing is necessary to prevent fraud and protect against credit risk, you cannot opt out of the core fraud checks if you wish to transact with us. You can, however, ask us to review an automated decision: we operate a manual review process that can override an automated outcome, and we will offer a non-discriminatory alternative (such as a one-off payment option) where an order is declined on a payment-plan or credit basis.
 
-We also carry out internal analysis and use AI tools to assist with customer data (see section 4 (Personal Data we collect) and section 7b (Internal analysis and AI-assisted processing) of the main Privacy Notice). Where AI is used internally by our team, a person reviews the output before acting on it. Where AI communicates with you directly, the automated conversations do not make decisions about your account, orders or payments that have a legal or similarly significant effect on you.
+We also carry out internal analysis and use AI tools to assist with customer data (see section 4 (Personal Data we collect) and section 7b (Internal analysis and AI-assisted processing) of the main Privacy Notice). Where AI is used internally by our team, a person reviews the output before acting on it. The analysis of fraud screening records described in section 4 of the main Privacy Notice is used to set our screening rules and thresholds; it is not used to make automated decisions about individual customers. Where AI communicates with you directly, the automated conversations do not make decisions about your account, orders or payments that have a legal or similarly significant effect on you.
 
 To exercise your rights in relation to automated decisions, contact **privacy@pinter.co.uk**.
 
@@ -304,7 +311,7 @@ For questions about this Appendix or your rights, contact: **privacy@pinter.co.u
 
 ---
 
-**Version:** v6.1  
-**Last Updated:** 5th August 2026  
+**Version:** v6.2  
+**Last Updated:** 21st August 2026  
 **Classification:** PUBLIC USE  
 **Status:** UNCONTROLLED WHEN PRINTED
